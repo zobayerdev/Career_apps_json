@@ -1465,5 +1465,57 @@
 			"ans": "has come"
 		}
 
+	],
+	
+	"english_seven" :
+	[
+		{
+			"mcq_no": "150",
+			"grp_ques": "Nipa as well as her brothers (come) to me.",
+			"first": "have come",
+			"second": "are coming",
+			"third": "was came",
+			"fourth": "has come",
+			"ans": "has come"
+		}
+	],
+	
+	"english_eight" :
+	[
+		{
+			"mcq_no": "150",
+			"grp_ques": "Nipa as well as her brothers (come) to me.",
+			"first": "have come",
+			"second": "are coming",
+			"third": "was came",
+			"fourth": "has come",
+			"ans": "has come"
+		}
+	],
+	
+	"english_nine" : 
+	[
+		{
+			"mcq_no": "150",
+			"grp_ques": "Nipa as well as her brothers (come) to me.",
+			"first": "have come",
+			"second": "are coming",
+			"third": "was came",
+			"fourth": "has come",
+			"ans": "has come"
+		}
+	],
+	
+	"english_ten" :
+	[
+		{
+			"mcq_no": "150",
+			"grp_ques": "Nipa as well as her brothers (come) to me.",
+			"first": "have come",
+			"second": "are coming",
+			"third": "was came",
+			"fourth": "has come",
+			"ans": "has come"
+		}
 	]
 }

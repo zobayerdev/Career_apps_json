@@ -1,0 +1,2375 @@
+{
+	"computer_first": [{
+			"mcq_no": "০১",
+			"grp_ques": "MICR এর পূর্ণরূপ হলো",
+			"first": "Magnetic Ink Character Region",
+			"second": "Magnetic Ink Character Resource",
+			"third": "Magnetic Ink Character Reader",
+			"fourth": "Magnetic Ink Character Recognition",
+			"ans": "Magnetic Ink Character Recognition"
+		},
+		{
+			"mcq_no": "০২",
+			"grp_ques": "আধুনিক কম্পিউটারের বৈশিষ্ট্য হচ্ছে",
+			"first": "বৃহৎ স্মৃতির আধার",
+			"second": "দ্রুত গতিতে প্রশ্ন সমাধান",
+			"third": "ভ্রমশূন্য ফলাফল",
+			"fourth": "উপরের সবগুলো",
+			"ans": "উপরের সবগুলো"
+		},
+		{
+			"mcq_no": "০৩",
+			"grp_ques": "কম্পিউটার প্রোগ্রামে, একই কাজ নির্দেশনা বারবার সম্পন্ন করার প্রক্রিয়া",
+			"first": "লুপিং",
+			"second": "ওভারল্যাপ",
+			"third": "ওভারলুপিং",
+			"fourth": "ওপরের কোনটিই নয়",
+			"ans": "লুপিং"
+		},
+		{
+			"mcq_no": "০৪",
+			"grp_ques": "BIOS-এর পূর্ণরূপ কি?",
+			"first": "Basic Input Output Software",
+			"second": "Basic Input Output System",
+			"third": "British International Olympic Society",
+			"fourth": "Bangladesh International Olympic Society",
+			"ans": "Basic Input Output System"
+		},
+		{
+			"mcq_no": "০৫",
+			"grp_ques": "LinkedIn এর ক্ষেত্রে কোনটি সঠিক?",
+			"first": "এটি একটি বিজনেস অরিয়েন্টেড সোশ্যাল নেটওয়ার্কিং সার্ভিস",
+			"second": "এটি ২০০২ সালে প্রতিষ্ঠিত",
+			"third": "২০০৬ সালে এটির সদস্যসংখ্যা ২০ মিলিয়নের অধিক হয়",
+			"fourth": "উপরের সবগুলো",
+			"ans": "উপরের সবগুলো"
+		},
+		{
+			"mcq_no": "০৬",
+			"grp_ques": "নিচের কোনটি ইনপুট ডিভাইস?",
+			"first": "প্রিন্টার",
+			"second": "স্ক্যানার",
+			"third": "মনিটর",
+			"fourth": "ওপরের কোনটিই নয়",
+			"ans": "স্ক্যানার"
+		},
+		{
+			"mcq_no": "০৭",
+			"grp_ques": "প্রথম তৈরি পারসনাল কম্পিউটারের নাম কি?",
+			"first": "অ্যালটেয়ার ৮৮৮৮",
+			"second": "অ্যালটেয়ার ৮৮০০",
+			"third": "অ্যালটেয়ার ৮৭৮৭",
+			"fourth": "অ্যালটেয়ার ৮০৮০",
+			"ans": "অ্যালটেয়ার ৮৮০০"
+		},
+		{
+			"mcq_no": "০৮",
+			"grp_ques": "(10101) বাইনারি সংখ্যাটির দশমিক মান কত",
+			"first": "12",
+			"second": "21",
+			"third": "121",
+			"fourth": "212",
+			"ans": "21"
+		},
+		{
+			"mcq_no": "০৯",
+			"grp_ques": "কম্পিউটার থেকে কম্পিউটারে তথ্য আদান-প্রদান প্রযুক্তিকে বলা হয়",
+			"first": "ইন্টারকম",
+			"second": "ইন্টারনেট",
+			"third": "ই-মেইল",
+			"fourth": "ইন্টারসীড",
+			"ans": "ইন্টারকম"
+		},
+		{
+			"mcq_no": "১০",
+			"grp_ques": "কম্পিউটারে স্ক্যানার যে ধরনের ডিভাইস",
+			"first": "আউটপুট",
+			"second": "ইনপুট",
+			"third": "পাওয়ার সাপ্লাই",
+			"fourth": "কোনটিই নয়",
+			"ans": "ইনপুট"
+		},
+		{
+			"mcq_no": "১১",
+			"grp_ques": "কম্পিউটার প্রোগ্রামে, একই কাজ নির্দেশনা বারবার সম্পন্ন করার প্রক্রিয়া",
+			"first": "লুপিং",
+			"second": "ওভারল্যাপ",
+			"third": "ওভারলুপিং",
+			"fourth": "ওপরের কোনটিই নয়",
+			"ans": "লুপিং"
+		},
+		{
+			"mcq_no": "১২",
+			"grp_ques": "বিশ্বের প্রথম কম্পিউটার নেটওয়ার্ক কোনটি?",
+			"first": "ডট নেট",
+			"second": "অরপানেট",
+			"third": "টেকনেট",
+			"fourth": "ওপরের কোনটিই নয়",
+			"ans": "অরপানেট"
+		},
+		{
+			"mcq_no": "১৩",
+			"grp_ques": "কম্পিউটার হার্ডওয়ার বলতে বুঝানো হয়-",
+			"first": "স্মৃতি অংশ",
+			"second": "কেন্দ্রীয় প্রক্রিয়াকরণ অংশ",
+			"third": "শক্ত ধাতব অংশ",
+			"fourth": "কম্পিউটার ও সংশ্লিষ্ট যান্ত্রিক সরঞ্জাম",
+			"ans": "শক্ত ধাতব অংশ"
+		},
+		{
+			"mcq_no": "১৪",
+			"grp_ques": "বাংলাদেশে স্থাপিত প্রথম কম্পিউটার-",
+			"first": "আইবিএম-৩৬০ সিরিজ",
+			"second": "আইবিএম-১৬২০ সিরিজ",
+			"third": "আইবিএম-১৬০০ সিরিজ",
+			"fourth": "আইবিএম- ৪৩০০ সিরিজ",
+			"ans": "আইবিএম-১৬২০ সিরিজ"
+		},
+		{
+			"mcq_no": "১৫",
+			"grp_ques": "কোন মাধ্যমে আলোর পালস ব্যবহৃত হয়?",
+			"first": "অপটিকাল ফাইবার",
+			"second": "তামার তার",
+			"third": "কো-এক্সিয়াল ক্যাবল",
+			"fourth": "ওয়্যারলেস মিডিয়া",
+			"ans": "অপটিকাল ফাইবার"
+		},
+		{
+			"mcq_no": "১৬",
+			"grp_ques": "আইওএস (IOS) মোবাইল অপারেটিং সিস্টেমটি কোন প্রতিষ্ঠান বাজারজাত করে?",
+			"first": "অ্যাপেল",
+			"second": "গুগল",
+			"third": "মাইক্রোসফট",
+			"fourth": "আইবিএম",
+			"ans": "অ্যাপেল"
+		},
+		{
+			"mcq_no": "১৭",
+			"grp_ques": "বিশ্বের প্রথম ল্যাপটপের নকশা করেন--",
+			"first": "বিল গেটস",
+			"second": "বিল মোগরিজ",
+			"third": "স্টিভ জবস",
+			"fourth": "চার্লস ব্যাবেজ",
+			"ans": "বিল মোগরিজ"
+		},
+		{
+			"mcq_no": "১৮",
+			"grp_ques": "নিচের কোন উক্তিটি সঠিক?",
+			"first": "১ কিলোবাইট = ১০২৪ বাইট",
+			"second": "১ মেগাবাইট = ১০২৪ বাইট",
+			"third": "১ কিলোবাইট = ১০০০ বাইট",
+			"fourth": "১ মেগাবাইট = ১০০০ বাইট",
+			"ans": "১ কিলোবাইট = ১০২৪ বাইট"
+		},
+		{
+			"mcq_no": "১৯", 
+			"grp_ques": "নিচের কোনটি ডাটাবেজ language?",
+			"first": "Oracle",
+			"second": "C",
+			"third": "MS-Word",
+			"fourth": "কোনটিই নয়",
+			"ans": "Oracle"
+		},
+		{
+			"mcq_no": "২০",
+			"grp_ques": "বিশ্বের প্রথম অ্যাপল কম্পিউটারের 'অ্যাপল-১' এর নকশাকার কে?",
+			"first": "স্টিভ জবস",
+			"second": "স্টিভ ওজনিয়াক",
+			"third": "জ্যাক হবস",
+			"fourth": "ওপরের কেউ নয়",
+			"ans": "স্টিভ ওজনিয়াক"
+		},
+		{
+			"mcq_no": "২১", 
+			"grp_ques": "প্রথম আইফোন বাজারে ছাড়ে--",
+			"first": "২০০৬ সালে",
+			"second": "২০০৮ সালে",
+			"third": "২০০৫ সালে",
+			"fourth": "২০০৭ সালে",
+			"ans": "২০০৭ সালে"
+		},
+		{
+			"mcq_no": "২২",
+			"grp_ques": "কম্পিউটারের প্রধান মেমরি মাইক্রোপ্রসেসরের ভেতরে থাকে, কথাটি-",
+			"first": "সত্য",
+			"second": "মিথ্যা",
+			"third": "দুটোই হতে পারে",
+			"fourth": "কোনটিই সত্য নয়",
+			"ans": "মিথ্যা"
+		},
+		{
+			"mcq_no": "২৩",
+			"grp_ques": "আধুনিক কম্পিউটারের জনক বলা হয়-",
+			"first": "ড. জন মৌসলি",
+			"second": "প্রেসপার একটি",
+			"third": "হলারিধ",
+			"fourth": "চার্লস ব্যাবেজ",
+			"ans": "চার্লস ব্যাবেজ"
+		},
+		{
+			"mcq_no": "২৪",
+			"grp_ques": "একটি লজিক গেট এর আউটপুট 1 হয় যখন এর সব ইনপুট ০ থাকে । এই গেটটি-",
+			"first": "AND",
+			"second": "OR",
+			"third": "NAND",
+			"fourth": "XOR",
+			"ans": "NAND"
+		},
+		{
+			"mcq_no": "২৫",
+			"grp_ques": "বাণিজ্যিক ভিত্তিতে তৈরি প্রথম ইলেক্ট্রনিক কম্পিউটারের নাম-",
+			"first": "ইউনিভ্যাক",
+			"second": "এনিয়া",
+			"third": "পিডিপি",
+			"fourth": "এডস্যাক",
+			"ans": "ইউনিভ্যাক"
+		}
+	],
+
+	"computer_second": [
+		{
+			"mcq_no": "২৬",
+			"grp_ques": "কম্পিউটারে কোনটি নেই?",
+			"first": "স্মৃতি",
+			"second": "দীর্ঘ সময় কাজ করার ক্ষমতা",
+			"third": "বুদ্ধি বিবেচনা",
+			"fourth": "নির্ভুল কাজ করার ক্ষমতা",
+			"ans": "বুদ্ধি বিবেচনা"
+		},
+		{
+			"mcq_no": "২৭",
+			"grp_ques": "TCP দিয়ে কোনটি বোঝানো হয়?",
+			"first": "প্রোগ্রাম",
+			"second": "প্রোটোকল",
+			"third": "প্রোগ্রামিং",
+			"fourth": "ফ্লোচার্ট",
+			"ans": "প্রোটোকল"
+		},
+		{
+			"mcq_no": "২৮",
+			"grp_ques": "বাংলাদেশের প্রথম স্বীকৃত কান্ট্রি কোড টপ-লেভেল ডোমেইন হলো--",
+			"first": "ডট বিএল (.bl)",
+			"second": "ডট বাংলা (.bangla)",
+			"third": "ডট বিডি (.bd)",
+			"fourth": "উপরের কোনটিই নয়",
+			"ans": "ডট বিডি (.bd)"
+		},
+		{
+			"mcq_no": "২৯",
+			"grp_ques": "প্রথম প্রজন্মের কম্পিউটারে ব্যবহৃত হয়-",
+			"first": "ট্রানজিস্টার",
+			"second": "আইসি",
+			"third": "মাইক্রোপ্রসেসর",
+			"fourth": "বায়ুশূন্য ভাল্ব",
+			"ans": "বায়ুশূন্য ভাল্ব"
+		},
+		{
+			"mcq_no": "৩০",
+			"grp_ques": "কম্পিউটার-টু-কম্পিউটারে তথ্য আদান-প্রদান প্রযুক্তিকে বলা হয়-",
+			"first": "ই-মেইল",
+			"second": "ইন্টারকম",
+			"third": "ইন্টারনেট",
+			"fourth": "টেলিকমিউনিকেশন",
+			"ans": "ইন্টারকম"
+		},
+		{
+			"mcq_no": "৩১",
+			"grp_ques": "সফটওয়্যারে অপারেটিং সিস্টেমকে কি বলা হয়?",
+			"first": "এপ্লিকেশন প্রোগ্রাম",
+			"second": "লোটাস",
+			"third": "ফাইল মেকার",
+			"fourth": "সিস্টেম সফটওয়্যার",
+			"ans": "সিস্টেম সফটওয়্যার"
+		},
+		{
+			"mcq_no": "৩২",
+			"grp_ques": "যে ইউটিলিটি প্রোগ্রাম একটি ডিস্কের গতি বৃদ্ধি করে তা হলো",
+			"first": "Fragmentation",
+			"second": "Defragmentation",
+			"third": "Format",
+			"fourth": "None of the above",
+			"ans": "Defragmentation"
+		},
+		{
+			"mcq_no": "৩৩",
+			"grp_ques": "কম্পিউটারের প্রধান প্রিন্টেড সার্কিট বোর্ড কে বলা হয়",
+			"first": "মাদারবোর্ড",
+			"second": "লজিক ইউনিট",
+			"third": "মনিটর",
+			"fourth": "কন্ট্রোল ইউনিট",
+			"ans": "মাদারবোর্ড"
+		},
+		{
+			"mcq_no": "৩৪",
+			"grp_ques": "মাইক্রোসফ্‌টের সার্চ ইঞ্জিন কোনটি",
+			"first": "Google",
+			"second": "Bing",
+			"third": "Yahoo",
+			"fourth": "None of the above",
+			"ans": "Bing"
+		},
+		{
+			"mcq_no": "৩৫",
+			"grp_ques": "কোনটি সঠিক নয়",
+			"first": "A+0= A",
+			"second": "A.1 = A",
+			"third": "A+A = 1",
+			"fourth": "A.A' = 1",
+			"ans": "A.A' = 1"
+		},
+		{
+			"mcq_no": "৩৬",
+			"grp_ques": "বাংলাদেশের দ্বিতীয় স্বীকৃত কান্ট্রি কোড টপ-লেভেল ডোমেইন হল",
+			"first": "ডট বিএল (.bl)",
+			"second": "ডট বাংলা (.bangla)",
+			"third": "ডট বিডি (.bd)",
+			"fourth": "ডট বাংলা বিডি (.banglabd)",
+			"ans": "ডট বাংলা (.bangla)"
+		},
+		{
+			"mcq_no": "২৬",
+			"grp_ques": "ট্রানজিস্টর মূলত কি হিসেবে ব্যবহৃত হয়",
+			"first": "ডাটা প্রসেসিং",
+			"second": "অ্যামপ্লিফায়ার",
+			"third": "ডিজাইনিং",
+			"fourth": "অপারেটিং সিস্টেম",
+			"ans": "অ্যামপ্লিফায়ার"
+		},
+		{
+			"mcq_no": "২৭",
+			"grp_ques": "এনড্রয়েড অপারেটিং সিস্টেমের ক্ষেত্রে নিচের কোনটি সঠিক",
+			"first": "এটির নির্মাতা গুগল",
+			"second": "এটি লিনাক্স (Linux) কার্নেল নির্ভর",
+			"third": "এটি প্রধানত টাচ স্ক্রিন মোবাইল ডিভাইসের জন্য তৈরি",
+			"fourth": "উপরের সবগুলো সঠিক",
+			"ans": "উপরের সবগুলো সঠিক"
+		},
+		{
+			"mcq_no": "২৮",
+			"grp_ques": "CPU কোন address generate করে",
+			"first": "Physical address",
+			"second": "Logical address",
+			"third": "Both physical and logical address",
+			"fourth": "উপরের কোনটিই নয়",
+			"ans": "Logical address"
+		},
+		{
+			"mcq_no": "২৯",
+			"grp_ques": "কম্পিউটার ভাইরাস কি",
+			"first": "একট ক্ষতিকারক জীবাণু",
+			"second": "একটি ক্ষতিকারক সার্কিট",
+			"third": "একটি ক্ষতিকারক চৌম্বক ফ্লাক্স",
+			"fourth": "একটি ক্ষতিকারক প্রোগ্রাম",
+			"ans": "একটি ক্ষতিকারক প্রোগ্রাম"
+		},
+		{
+			"mcq_no": "৩০",
+			"grp_ques": "২২ সেপ্টেম্বর ২০১৫ মাইক্রোসফটের কোন অফিস সফটওয়্যার বাজারে আসে",
+			"first": "অফিস ২০১৫",
+			"second": "অফিস ২০১৬",
+			"third": "অফিস ২০১৭",
+			"fourth": "অফিস ২০১৮",
+			"ans": "অফিস ২০১৬"
+		},
+
+		{
+			"mcq_no": "৩১",
+			"grp_ques": "কোনটি অপারেটিং সিস্টেম?",
+			"first": "বেসিক",
+			"second": "উইন্ডোজ-২০০০",
+			"third": "কোবল",
+			"fourth": "কোয়াট্রো",
+			"ans": "উইন্ডোজ-২০০০"
+		},
+		{
+			"mcq_no": "৩২",
+			"grp_ques": "Wi Max এর পূর্ণরূপ কি?",
+			"first": "Worldwide Interoperability for Microwave Access",
+			"second": "Worldwide Internet for Microwave Access",
+			"third": "Worldwide Interconnection for Microwave Access",
+			"fourth": "কোনটিই নয়",
+			"ans": "কোনটিই নয়"
+		},
+		{
+			"mcq_no": "৩৩",
+			"grp_ques": "নিচের কোনটি ডাটাবেজ ল্যাংগুয়েজ?",
+			"first": "Data Definition Language",
+			"second": "Data manipulation Language",
+			"third": "Quary Language",
+			"fourth": "উপরের সবগুলোই",
+			"ans": "উপরের সবগুলোই"
+		},
+		{
+			"mcq_no": "৩৪",
+			"grp_ques": "বাণিজ্যিকভাবে বিশ্বের প্রথম মাইক্রোপ্রসেসর হলো",
+			"first": "ইনটেল 4004",
+			"second": "ইনটেল 2020",
+			"third": "আইবিএম 4004",
+			"fourth": "এমএসআই 4004",
+			"ans": "ইনটেল 4004"
+		},
+		{
+			"mcq_no": "৩৫",
+			"grp_ques": "কম্পিউটারে বাসের প্রশস্ততা মাপা হয়",
+			"first": "বাইটের হিসাব করে",
+			"second": "বিটের হিসাব করে",
+			"third": "ইঞ্চির হিসাব করে",
+			"fourth": "উপরের কোনটিই নয়",
+			"ans": "বিটের হিসাব করে"
+		},
+		{
+			"mcq_no": "৩৬",
+			"grp_ques": "মেশিনের ভাষায় লিখিত প্রোগ্রামকে বলা হয়",
+			"first": "অবজেক্ট প্রোগ্রাম",
+			"second": "কম্পাইলার",
+			"third": "ডেটাবেস",
+			"fourth": "এসেম্বলি",
+			"ans": "এসেম্বলি"
+		},
+		{
+			"mcq_no": "৩৭",
+			"grp_ques": "Social Networking Site-এ যোগাযোগ কোন media ব্যবহৃত হয়?",
+			"first": "Image/video",
+			"second": "Audio",
+			"third": "Text",
+			"fourth": "উপরের সবগুলো",
+			"ans": "উপরের সবগুলো"
+		},
+		{
+			"mcq_no": "৩৮",
+			"grp_ques": "VESA-এর পূর্ণরূপ কি?",
+			"first": "Video Electronics Standards Association",
+			"second": "Visa Electronics Standards Association",
+			"third": "Video Electronics Standards Authority",
+			"fourth": "Video Electronics Sound Accessories",
+			"ans": "উত্তর পাওয়া যায় নাই"
+		},
+		{
+			"mcq_no": "৩৯",
+			"grp_ques": "নীচের কোন্‌টি একই সাথে ইনপুট ও আউটপুট হিসেবে কাজ করে?",
+			"first": "Mouse",
+			"second": "Microphone",
+			"third": "Touch Screen",
+			"fourth": "Printer",
+			"ans": "Touch Screen"
+		},
+		{
+			"mcq_no": "৪০",
+			"grp_ques": "Y2K- তে K মানে",
+			"first": "শত",
+			"second": "হাজার",
+			"third": "দশ হাজার",
+			"fourth": "লক্ষ",
+			"ans": "হাজার"
+		},
+		{
+			"mcq_no": "৪১",
+			"grp_ques": "8086 কত বিটের মাইক্রো প্রসেসর?",
+			"first": "8",
+			"second": "16",
+			"third": "32",
+			"fourth": "উপরের কোনটিই নয়",
+			"ans": "16"
+		},
+		{
+			"mcq_no": "৪২",
+			"grp_ques": "এক word কত বিট বিশিষ্ট হয়?",
+			"first": "4",
+			"second": "16",
+			"third": "8",
+			"fourth": "2",
+			"ans": "16"
+		},
+		{
+			"mcq_no": "৪৩",
+			"grp_ques": "Y-2K বাগ কি?",
+			"first": "একটি কম্পিউটার ভাইরাস-এর নাম",
+			"second": "২০০০ সাল শুরুর মুহুর্তে সারা বিশ্বে কম্পিউটার পির্যয় এর কারণ",
+			"third": "নতুন সহস্রাব্দের কম্পিউটার",
+			"fourth": "কম্পিউটার-এর একটি নতুন অপারেটিং সিস্টেম",
+			"ans": "২০০০ সাল শুরুর মুহুর্তে সারা বিশ্বে কম্পিউটার পির্যয় এর কারণ"
+		},
+		{
+			"mcq_no": "৪৪",
+			"grp_ques": "কম্পিউটারের মস্তিষ্কস্বরূপ?",
+			"first": "ফ্লপি ডিস্ক",
+			"second": "মেমোরি",
+			"third": "সিপিইউ",
+			"fourth": "মনিটর",
+			"ans": "সিপিইউ"
+		},
+		{
+			"mcq_no": "৪৫",
+			"grp_ques": "BIOS কোথায় সংরক্ষিত থাকে?",
+			"first": "RAM-এ",
+			"second": "ROM-এ",
+			"third": "Hard Drive-এ",
+			"fourth": "None of these",
+			"ans": "ROM-এ"
+		},
+		{
+			"mcq_no": "৪৬",
+			"grp_ques": "কম্পিউটারের স্থায়ী স্মৃতিশক্তিকে কি বলে?",
+			"first": "RAM",
+			"second": "ROM",
+			"third": "হার্ডওয়্যার",
+			"fourth": "সফটওয়্যার",
+			"ans": "ROM"
+		},
+		{
+			"mcq_no": "৪৭",
+			"grp_ques": "কম্পিউটার কে আবিষ্কার করেন?",
+			"first": "উইলিয়াম অটরেড",
+			"second": "ব্লেইসি প্যাসকেল",
+			"third": "হাওয়ার্ড এইকিন",
+			"fourth": "চার্লস ব্যাবেজ",
+			"ans": "হাওয়ার্ড এইকিন"
+		},
+		{
+			"mcq_no": "৪৮",
+			"grp_ques": "“একটি ২ (দুই) ইনপুট লজিক সেটের আউটপুট Ѳ হবে, যদি এর ইনপুটগুলো সমান হয়”-এই উক্তিটি কোন সেটের জন্য সত্য?",
+			"first": "AND",
+			"second": "NOR",
+			"third": "EX-OR",
+			"fourth": "OR",
+			"ans": "EX-OR"
+		},
+		{
+			"mcq_no": "৪৯",
+			"grp_ques": "মোবাইল ফোনের জনক",
+			"first": "মার্টিন কুপার",
+			"second": "কেমু পল",
+			"third": "কেনেথ এইচ অলসেন",
+			"fourth": "ওপরের কেউ নয়",
+			"ans": "মার্টিন কুপার"
+		},
+		{
+			"mcq_no": "৫০",
+			"grp_ques": "মিনি কম্পিউটার এর জনক কে?",
+			"first": "বিল গেটস",
+			"second": "জন ভন নিউম্যান",
+			"third": "কেনেথ এইচ অলসেন",
+			"fourth": "চার্লস ব্যাবেজ",
+			"ans": "কেনেথ এইচ অলসেন"
+		}
+	],
+
+	"computer_third": [
+	
+	{
+			"mcq_no": "৫১",
+			"grp_ques": "IBM মাইক্রোকম্পিউটার বাজারে ছাড়ে কত সালে?",
+			"first": "১৯৭৬",
+			"second": "১৯৮৮",
+			"third": "১৯৮১",
+			"fourth": "১৯৭৮",
+			"ans": "১৯৮১"
+		},
+		{
+			"mcq_no": "৫২",
+			"grp_ques": "Push এবং Pop নীচের কার সাথে সম্পর্কিত?",
+			"first": "Queue",
+			"second": "Stack",
+			"third": "Union",
+			"fourth": "Array",
+			"ans": "Stack"
+		},
+		{
+			"mcq_no": "৫৩",
+			"grp_ques": "TV remote এর Carrier frequency-র range কত?",
+			"first": "< 100 MHZ",
+			"second": "< 1 GHZ",
+			"third": "< 2 GHZ",
+			"fourth": "Infra-red range এর",
+			"ans": "Infra-red range এর"
+		},
+		{
+			"mcq_no": "৫৪",
+			"grp_ques": "মাইক্রোসফট করপোরেশনের ল্যাপটপের নাম কি?",
+			"first": "সারফেস বুক",
+			"second": "ইন্টারফেস বুক",
+			"third": "মাইক্রো বুক",
+			"fourth": "সফটওয়্যার বুক",
+			"ans": "সারফেস বুক"
+		},
+		{
+			"mcq_no": "৫৫",
+			"grp_ques": "প্রথম Web browser কোনটি?",
+			"first": "Netscape Navigator",
+			"second": "World wide web",
+			"third": "Internet Explorer",
+			"fourth": "Safari",
+			"ans": "World wide web"
+		},
+		{
+			"mcq_no": "৫৬",
+			"grp_ques": "POST বলতে বোঝায়--",
+			"first": "Power-On Soft Test",
+			"second": "Power-On Self Test",
+			"third": "Power-Over Self Test",
+			"fourth": "None of these",
+			"ans": "Power-On Self Test"
+		},
+		{
+			"mcq_no": "৫৭",
+			"grp_ques": "‘মডেম’ এর মধ্যে থাকে-",
+			"first": "একটি মডুলেটর",
+			"second": "একটি এনকোডার",
+			"third": "একটি কোডেক",
+			"fourth": "একটি মডুলেটর ও একটি ডিমডুলেটর",
+			"ans": "একটি মডুলেটর ও একটি ডিমডুলেটর"
+		},
+		{
+			"mcq_no": "৫৮",
+			"grp_ques": "অ্যাবাকাস কি?",
+			"first": "এক প্রকার প্রাচীনতম খাওয়ার পাত্র",
+			"second": "এক প্রকার প্রাচীনতম প্রসাধন সামগ্রী",
+			"third": "এক প্রকার প্রাচীনতম গণনা যন্ত্র",
+			"fourth": "এক প্রকার প্রাচীনতম যন্ত্রযান",
+			"ans": "এক প্রকার প্রাচীনতম গণনা যন্ত্র"
+		},
+		{
+			"mcq_no": "৫৯",
+			"grp_ques": "চরকি ডটকম (Chorki.com) কি?",
+			"first": "সার্চ ইঞ্জিন",
+			"second": "সামাজিক যোগাযোগ সাইট",
+			"third": "ওয়েব ব্রাউজার",
+			"fourth": "ওপরের কোনটিই নয়",
+			"ans": "সার্চ ইঞ্জিন"
+		},
+		{
+			"mcq_no": "৬০",
+			"grp_ques": "Plotter কোন ধরনের ডিভাইস?",
+			"first": "ইনপুট",
+			"second": "আউটপুট",
+			"third": "মেমোরি",
+			"fourth": "উপরের কোনটিই নয়",
+			"ans": "আউটপুট"
+		},
+		{
+			"mcq_no": "৬১",
+			"grp_ques": "কোন কম্পিউটার মেমোরি কখনো স্মৃতিভ্রংশ হয় না?",
+			"first": "ROM",
+			"second": "RAM",
+			"third": "PROM",
+			"fourth": "EPROM",
+			"ans": "ROM"
+		},
+		{
+			"mcq_no": "৬২",
+			"grp_ques": "ইন্টারনেটের মাধ্যমে উন্নত চিকিৎসা পদ্ধতিকে বলা হয়",
+			"first": "টেলিমেডিসিন",
+			"second": "ইলেকট্রোমেডিসিন",
+			"third": "জায়মাপ্লাজম",
+			"fourth": "ই-ট্রিটমেন্ট",
+			"ans": "টেলিমেডিসিন"
+		},
+		{
+			"mcq_no": "৬৩",
+			"grp_ques": "বর্তমানে (২০১৬) স্মার্টফোন ব্যবহারে শীর্ষ দেশ কোনটি?",
+			"first": "ভারত",
+			"second": "চীন",
+			"third": "রাশিয়া",
+			"fourth": "যুক্তরাষ্ট্র",
+			"ans": "চীন"
+		},
+		{
+			"mcq_no": "৬৪",
+			"grp_ques": "H.323 Protocol সাধারণত কি কাজে ব্যবহৃত হয়?",
+			"first": "File transfer",
+			"second": "VoiP",
+			"third": "Data security",
+			"fourth": "File download",
+			"ans": "VoiP"
+		},
+		{
+			"mcq_no": "৬৫",
+			"grp_ques": "HTML--",
+			"first": "Hyper text Markup Language",
+			"second": "Hyper Test Message Link",
+			"third": "High Text Message Link",
+			"fourth": "High Test Markup Language",
+			"ans": "Hyper text Markup Language"
+		},
+		{
+			"mcq_no": "৬৬",
+			"grp_ques": "বর্তমানে যে প্রটোকলের মাধ্যমে ইন্টারনেট ব্যবহার করে টেলিফোন করা যায় তার নাম-",
+			"first": "ভয়েস ওভার আইপি",
+			"second": "ইন্টারনেট টেলিফোন",
+			"third": "মডেম",
+			"fourth": "পোস্ট অফিস প্রটোকল",
+			"ans": "ভয়েস ওভার আইপি"
+		},
+		{
+			"mcq_no": "৬৭",
+			"grp_ques": "কম্পিউটার এবং ফোন লাইনের মধ্যে সংযোগ স্থাপনে ব্যবহৃত হয়-",
+			"first": "প্রিন্টার",
+			"second": "মাউস",
+			"third": "মডেম",
+			"fourth": "পটার",
+			"ans": "মডেম"
+		},
+		{
+			"mcq_no": "৬৮",
+			"grp_ques": "বর্তমানে কম্পিউটার জগতের কিংবদন্তী কে?",
+			"first": "বিল গেটস",
+			"second": "সেমুর ক্রেগ",
+			"third": "উইলিয়াম ইংলিশ",
+			"fourth": "জর্জ বোলে",
+			"ans": "বিল গেটস"
+		},
+		{
+			"mcq_no": "৬৯",
+			"grp_ques": "১০ আগস্ট ২০১৫ থেকে গুগল যে কোম্পানির অধীন--",
+			"first": "ইউটিব",
+			"second": "ফেসবুক",
+			"third": "মাইক্রোসফট",
+			"fourth": "অ্যালফাবেট",
+			"ans": "অ্যালফাবেট"
+		},
+		{
+			"mcq_no": "৭০",
+			"grp_ques": "নিচের কোন স্মার্টফোন অপারেটিং সিস্টেমটি ওপেন প্লাটফর্ম?",
+			"first": "IOS",
+			"second": "Windows Phone",
+			"third": "Android",
+			"fourth": "Symbian",
+			"ans": "Android"
+		},
+		{
+			"mcq_no": "৭১",
+			"grp_ques": "কোনটি মাইক্রোসফটের প্রথম প্রোগ্রাম?",
+			"first": "MS DOS",
+			"second": "Windows XP",
+			"third": "Windows 98",
+			"fourth": "Windows 7",
+			"ans": "MS DOS"
+		},
+		{
+			"mcq_no": "৭২",
+			"grp_ques": "নিম্নের কোনটি কম্পিউটারের প্রাইমারী মেমোরী?",
+			"first": "RAM",
+			"second": "Hard Disk",
+			"third": "Pen drive",
+			"fourth": "কোনটিই নয়",
+			"ans": "RAM"
+		},
+		{
+			"mcq_no": "৭৩",
+			"grp_ques": "নিচের কোন কাজের জন্য কম্পিউটার বেশি সুবিধাজনক",
+			"first": "পুনরাবৃত্তিমুলক কাজ",
+			"second": "গাণিতিক কাজ",
+			"third": "হিসাবরক্ষণ কাজ",
+			"fourth": "প্রতিবেদন প্রণয়ন",
+			"ans": "পুনরাবৃত্তিমুলক কাজ"
+		},
+		{
+			"mcq_no": "৭৪",
+			"grp_ques": "ক্যাবল সংযোগ ছাড়াই স্যাটেলাইট টিভি দেখার উন্নত প্রযুক্তির নাম কি?",
+			"first": "DTA",
+			"second": "DTH",
+			"third": "DHT",
+			"fourth": "DTHA",
+			"ans": "DTH"
+		},
+		{
+			"mcq_no": "৭৫",
+			"grp_ques": "BCD-এর পূর্ণরূপ নিচের কোনটি?",
+			"first": "Bainary Coded Data",
+			"second": "Bainary Coded Decimal",
+			"third": "Bainary Calculated Decimal",
+			"fourth": "None of these",
+			"ans": "Bainary Coded Decimal"
+		}
+	
+	],
+
+	"computer_four": [		
+	    {
+			"mcq_no": "৭৬",
+			"grp_ques": "ইনস্টাগ্রাম চালু হয়--",
+			"first": "২০০৮ সালে",
+			"second": "২০১০ সালে",
+			"third": "২০১২ সালে",
+			"fourth": "২০০৬ সালে",
+			"ans": "২০১০ সালে"
+		},
+		{
+			"mcq_no": "৭৭",
+			"grp_ques": "MICR এর পূর্ণরূপ হলো",
+			"first": "Magnetic Ink Character Region",
+			"second": "Magnetic Ink Character Resource",
+			"third": "Magnetic Ink Character Reader",
+			"fourth": "Magnetic Ink Character Recognition",
+			"ans": "Magnetic Ink Character Recognition"
+		},
+		{
+			"mcq_no": "৭৮",
+			"grp_ques": "আধুনিক কম্পিউটারের বৈশিষ্ট্য হচ্ছে",
+			"first": "বৃহৎ স্মৃতির আধার",
+			"second": "দ্রুত গতিতে প্রশ্ন সমাধান",
+			"third": "ভ্রমশূন্য ফলাফল",
+			"fourth": "উপরের সবগুলো",
+			"ans": "উপরের সবগুলো"
+		},
+		{
+			"mcq_no": "৭৯",
+			"grp_ques": "কম্পিউটার প্রোগ্রামে, একই কাজ নির্দেশনা বারবার সম্পন্ন করার প্রক্রিয়া",
+			"first": "লুপিং",
+			"second": "ওভারল্যাপ",
+			"third": "ওভারলুপিং",
+			"fourth": "ওপরের কোনটিই নয়",
+			"ans": "লুপিং"
+		},
+		{
+			"mcq_no": "৮০",
+			"grp_ques": "BIOS-এর পূর্ণরূপ কি?",
+			"first": "Basic Input Output Software",
+			"second": "Basic Input Output System",
+			"third": "British International Olympic Society",
+			"fourth": "Bangladesh International Olympic Society",
+			"ans": "Basic Input Output System"
+		},
+		{
+			"mcq_no": "৮১",
+			"grp_ques": "LinkedIn এর ক্ষেত্রে কোনটি সঠিক?",
+			"first": "এটি একটি বিজনেস অরিয়েন্টেড সোশ্যাল নেটওয়ার্কিং সার্ভিস",
+			"second": "এটি ২০০২ সালে প্রতিষ্ঠিত",
+			"third": "২০০৬ সালে এটির সদস্যসংখ্যা ২০ মিলিয়নের অধিক হয়",
+			"fourth": "উপরের সবগুলো",
+			"ans": "উপরের সবগুলো"
+		},
+		{
+			"mcq_no": "৮২",
+			"grp_ques": "নিচের কোনটি ইনপুট ডিভাইস?",
+			"first": "প্রিন্টার",
+			"second": "স্ক্যানার",
+			"third": "মনিটর",
+			"fourth": "ওপরের কোনটিই নয়",
+			"ans": "স্ক্যানার"
+		},
+		{
+			"mcq_no": "৮৩",
+			"grp_ques": "প্রথম তৈরি পারসনাল কম্পিউটারের নাম কি?",
+			"first": "অ্যালটেয়ার ৮৮৮৮",
+			"second": "অ্যালটেয়ার ৮৮০০",
+			"third": "অ্যালটেয়ার ৮৭৮৭",
+			"fourth": "অ্যালটেয়ার ৮০৮০",
+			"ans": "অ্যালটেয়ার ৮৮০০"
+		},
+		{
+			"mcq_no": "৮৪",
+			"grp_ques": "(10101) বাইনারি সংখ্যাটির দশমিক মান কত",
+			"first": "12",
+			"second": "21",
+			"third": "121",
+			"fourth": "212",
+			"ans": "21"
+		},
+		{
+			"mcq_no": "৮৫",
+			"grp_ques": "কম্পিউটার থেকে কম্পিউটারে তথ্য আদান-প্রদান প্রযুক্তিকে বলা হয়",
+			"first": "ইন্টারকম",
+			"second": "ইন্টারনেট",
+			"third": "ই-মেইল",
+			"fourth": "ইন্টারসীড",
+			"ans": "ইন্টারকম"
+		},
+		{
+			"mcq_no": "৮৬",
+			"grp_ques": "কম্পিউটারে স্ক্যানার যে ধরনের ডিভাইস",
+			"first": "আউটপুট",
+			"second": "ইনপুট",
+			"third": "পাওয়ার সাপ্লাই",
+			"fourth": "কোনটিই নয়",
+			"ans": "ইনপুট"
+		},
+		{
+			"mcq_no": "৮৭",
+			"grp_ques": "কম্পিউটারের প্রধান মেমরি মাইক্রোপ্রসেসরের ভেতরে থাকে, কথাটি-",
+			"first": "সত্য",
+			"second": "মিথ্যা",
+			"third": "দুটোই হতে পারে",
+			"fourth": "কোনটিই সত্য নয়",
+			"ans": "মিথ্যা"
+		},
+		{
+			"mcq_no": "৮৮",
+			"grp_ques": "আধুনিক কম্পিউটারের জনক বলা হয়-",
+			"first": "ড. জন মৌসলি",
+			"second": "প্রেসপার একটি",
+			"third": "হলারিধ",
+			"fourth": "চার্লস ব্যাবেজ",
+			"ans": "চার্লস ব্যাবেজ"
+		},
+		{
+			"mcq_no": "৮৯",
+			"grp_ques": "একটি লজিক গেট এর আউটপুট 1 হয় যখন এর সব ইনপুট ০ থাকে । এই গেটটি-",
+			"first": "AND",
+			"second": "OR",
+			"third": "NAND",
+			"fourth": "XOR",
+			"ans": "NAND"
+		},
+		{
+			"mcq_no": "৯০",
+			"grp_ques": "বাণিজ্যিক ভিত্তিতে তৈরি প্রথম ইলেক্ট্রনিক কম্পিউটারের নাম-",
+			"first": "ইউনিভ্যাক",
+			"second": "এনিয়া",
+			"third": "পিডিপি",
+			"fourth": "এডস্যাক",
+			"ans": "ইউনিভ্যাক"
+		},
+		{
+			"mcq_no": "৯১",
+			"grp_ques": "কম্পিউটারে কোনটি নেই?",
+			"first": "স্মৃতি",
+			"second": "দীর্ঘ সময় কাজ করার ক্ষমতা",
+			"third": "বুদ্ধি বিবেচনা",
+			"fourth": "নির্ভুল কাজ করার ক্ষমতা",
+			"ans": "বুদ্ধি বিবেচনা"
+		},
+		{
+			"mcq_no": "৯২",
+			"grp_ques": "TCP দিয়ে কোনটি বোঝানো হয়?",
+			"first": "প্রোগ্রাম",
+			"second": "প্রোটোকল",
+			"third": "প্রোগ্রামিং",
+			"fourth": "ফ্লোচার্ট",
+			"ans": "প্রোটোকল"
+		},
+		{
+			"mcq_no": "৯৩",
+			"grp_ques": "বাংলাদেশের প্রথম স্বীকৃত কান্ট্রি কোড টপ-লেভেল ডোমেইন হলো--",
+			"first": "ডট বিএল (.bl)",
+			"second": "ডট বাংলা (.bangla)",
+			"third": "ডট বিডি (.bd)",
+			"fourth": "উপরের কোনটিই নয়",
+			"ans": "ডট বিডি (.bd)"
+		},
+		{
+			"mcq_no": "৯৪",
+			"grp_ques": "প্রথম প্রজন্মের কম্পিউটারে ব্যবহৃত হয়-",
+			"first": "ট্রানজিস্টার",
+			"second": "আইসি",
+			"third": "মাইক্রোপ্রসেসর",
+			"fourth": "বায়ুশূন্য ভাল্ব",
+			"ans": "বায়ুশূন্য ভাল্ব"
+		},
+		{
+			"mcq_no": "৯৫",
+			"grp_ques": "কম্পিউটার-টু-কম্পিউটারে তথ্য আদান-প্রদান প্রযুক্তিকে বলা হয়-",
+			"first": "ই-মেইল",
+			"second": "ইন্টারকম",
+			"third": "ইন্টারনেট",
+			"fourth": "টেলিকমিউনিকেশন",
+			"ans": "ইন্টারকম"
+		},
+		{
+			"mcq_no": "৯৬",
+			"grp_ques": "সফটওয়্যারে অপারেটিং সিস্টেমকে কি বলা হয়?",
+			"first": "এপ্লিকেশন প্রোগ্রাম",
+			"second": "লোটাস",
+			"third": "ফাইল মেকার",
+			"fourth": "সিস্টেম সফটওয়্যার",
+			"ans": "সিস্টেম সফটওয়্যার"
+		}, {
+			"mcq_no": "৯৭",
+			"grp_ques": "কম্পিউটারের ডিজিটাল পদ্ধতির অভ্যন্তরে সাধারণত ব্যবহৃত সংখ্যা পদ্ধতি হলো--",
+			"first": "ডেসিমাল",
+			"second": "বাইনারি",
+			"third": "হেক্সাডেসিমাল",
+			"fourth": "অক্টাল",
+			"ans": "বাইনারি"
+		},
+		{
+			"mcq_no": "৯৮",
+			"grp_ques": "IC চিপ দিয়ে তৈরি প্রথম ডিজিাল কম্পিউটার-",
+			"first": "PDP-1",
+			"second": "Mark-1",
+			"third": "Intel 4004",
+			"fourth": "IBM system 360",
+			"ans": "IBM system 360"
+		},
+		{
+			"mcq_no": "৯৯",
+			"grp_ques": "এনালগ ও ডিজিটাল কম্পিউটারের সমন্বয়ে গটিত হয়-",
+			"first": "সুপার কম্পিউটার",
+			"second": "হাইব্রিড কম্পিউটার",
+			"third": "মাইক্রো কম্পিউটার",
+			"fourth": "মিনি কম্পিউটার",
+			"ans": "হাইব্রিড কম্পিউটার"
+		},
+		{
+			"mcq_no": "১০০",
+			"grp_ques": "IP-V6 এড্রেস কত বিটের?",
+			"first": "১২৮",
+			"second": "৩২",
+			"third": "১২",
+			"fourth": "৬",
+			"ans": "১২৮"
+		}
+		],
+
+	"computer_five": [{
+			"mcq_no": "101",
+			"grp_ques": "কম্পিউটারে ডেটা সংরক্ষণে ব্যবহৃত হয়",
+			"first": "বাইনারী সংখ্যা পদ্ধতি",
+			"second": "নিউমেরিক্যাল সংখ্যা পদ্ধতি",
+			"third": "ডেসিমাল সংখ্যা পদ্ধতি",
+			"fourth": "হেক্সা ডেসিমাল সংখ্যা পদ্ধতি",
+			"ans": "বাইনারী সংখ্যা পদ্ধতি"
+		},
+		{
+			"mcq_no": "102",
+			"grp_ques": "অ্যান্ড্রয়েডের \"মার্শ ম্যালো (Marsh Mallow)\" অপারেটিং সিস্টেমটি কখন বাজারে আসে?",
+			"first": "১ অক্টোবর ২০১৫",
+			"second": "৫ অক্টোবর ২০১৫",
+			"third": "১০ অক্টোবর ২০১৫",
+			"fourth": "১৫ অক্টোবর ২০১৫",
+			"ans": "৫ অক্টোবর ২০১৫"
+		},
+		{
+			"mcq_no": "103",
+			"grp_ques": "Wi-Fi কোন স্ট্যান্ডার্ড-এর উপর ভিত্তি করে কাজ করে?",
+			"first": "IEEE 802.11",
+			"second": "IEEE 804.11",
+			"third": "IEEE 803.11",
+			"fourth": "IEEE 806.11",
+			"ans": "IEEE 802.11"
+		},
+		{
+			"mcq_no": "104",
+			"grp_ques": "ENIAC-এর পূর্ণরূপ কোনটি?",
+			"first": "Electronic Number Integrator and Computer",
+			"second": "Electronic Numerical Integrator and Computer",
+			"third": "Electronic Numerical Integral and Computer",
+			"fourth": "Electronic Numerical Integrator and Calculator",
+			"ans": "Electronic Numerical Integrator and Computer"
+		},
+		{
+			"mcq_no": "105",
+			"grp_ques": "আধুনিক ই-মেইলের জনক বা উদ্ভাবক কে?",
+			"first": "নোরিও ওহগা (জাপান)",
+			"second": "থমসন (ইংল্যান্ড)",
+			"third": "রে টমলিনসন (যুক্তরাষ্ট্র)",
+			"fourth": "জি. মার্কনি (ইতালি)",
+			"ans": "রে টমলিনসন (যুক্তরাষ্ট্র)"
+		},
+		{
+			"mcq_no": "106",
+			"grp_ques": "একটি অপটিক্যাল স্টোরেজ ডিভাইসের উদাহরণ হলো",
+			"first": "র‍্যাম",
+			"second": "সিডি রোম",
+			"third": "প্রিন্টার",
+			"fourth": "কোনটিই নয়",
+			"ans": "সিডি রোম"
+		},
+		{
+			"mcq_no": "107",
+			"grp_ques": "কোন চিহ্নটি ই-মেইল ঠিকানায় অবশ্যই থাকবে?",
+			"first": "@",
+			"second": "#",
+			"third": "&",
+			"fourth": "$",
+			"ans": "@"
+		},
+		{
+			"mcq_no": "108",
+			"grp_ques": "কম্পিউটারের ডিজিটাল পদ্ধতির অভ্যন্তরে সাধারণত যে সংখ্যা পদ্ধতি ব্যবহার করা হয় তাকে বলে",
+			"first": "বাইনারী",
+			"second": "হেক্সাডেসিমেল",
+			"third": "দশমিক",
+			"fourth": "অক্টাল",
+			"ans": "বাইনারী"
+		},
+		{
+			"mcq_no": "109",
+			"grp_ques": "ই-মেইল গ্রহণ করার অধিক ব্যবহৃত প্রোটকল কোনটি?",
+			"first": "POP9",
+			"second": "HTML",
+			"third": "POP3",
+			"fourth": "SMTP",
+			"ans": "SMTP"
+		},
+		{
+			"mcq_no": "110",
+			"grp_ques": "Wi-Fi এর কয়টি Standard (আদর্শ) রয়েছে",
+			"first": "১",
+			"second": "২",
+			"third": "৩",
+			"fourth": "৪",
+			"ans": "৩"
+		},
+		{
+			"mcq_no": "111",
+			"grp_ques": "URL-হলো",
+			"first": "Web-এর বিভিন্ন Documents ও অন্যান্য Resources এর ঠিকানা",
+			"second": "Network- এর বিভিন্ন Resources-এর ঠিকানা",
+			"third": "একটি LAN-এর বিভিন্ন Resources-এর ঠিকানা",
+			"fourth": "একটি Network- এর Domain",
+			"ans": "Web-এর বিভিন্ন Documents ও অন্যান্য Resources এর ঠিকানা"
+		},
+		{
+			"mcq_no": "112",
+			"grp_ques": "UNIX কি?",
+			"first": "অপারেটিং সিস্টেম",
+			"second": "প্যাকেজ সফটওয়্যার",
+			"third": "অ্যাপ্লিকেশন সফটওয়্যার",
+			"fourth": "ওপরের কোনটিই নয়",
+			"ans": "অপারেটিং সিস্টেম"
+		},
+		{
+			"mcq_no": "113",
+			"grp_ques": "WWW দিয়ে বোঝানো হয়",
+			"first": "World Wide Wonder",
+			"second": "World Wide Web",
+			"third": "Who What When",
+			"fourth": "World Woman's Welfare",
+			"ans": "World Wide Web"
+		},
+		{
+			"mcq_no": "114",
+			"grp_ques": "কম্পিউটার মেমোরী থেকে সংরক্ষিত ডাটা উত্তোলনের পদ্ধতিকে কি বলে?",
+			"first": "Read-out",
+			"second": "Read",
+			"third": "Read from",
+			"fourth": "উপরের সবগুলোই",
+			"ans": "Read"
+		},
+		{
+			"mcq_no": "115",
+			"grp_ques": "Firewall কি protection দেয়ার জন্য ব্যবহিত হয়?",
+			"first": "Fire attacks",
+			"second": "Unauthorized access",
+			"third": "Virus attacks",
+			"fourth": "Data-driven attacks",
+			"ans": "Unauthorized access"
+		},
+		{
+			"mcq_no": "116",
+			"grp_ques": "নিচের কোনটি ইউটিলিটি সফ্‌টওয়ার?",
+			"first": "উইন্ডোজ",
+			"second": "ওরাকল",
+			"third": "এন্টি ভাইরাস",
+			"fourth": "মাইক্রোসফ্‌ট ওয়ার্ড",
+			"ans": "এন্টি ভাইরাস"
+		},
+		{
+			"mcq_no": "117",
+			"grp_ques": "১ বাইটে বিটের সংখ্যা কত?",
+			"first": "১০",
+			"second": "৮",
+			"third": "৬",
+			"fourth": "৪",
+			"ans": "৮"
+		},
+		{
+			"mcq_no": "118",
+			"grp_ques": "নীচের কোনটি ৫২(১৬) এর বাইনারী রূপ?",
+			"first": "01010010(2)",
+			"second": "01110011(2)",
+			"third": "00001100(2)",
+			"fourth": "11110000(2)",
+			"ans": "01010010(2)"
+		},
+		{
+			"mcq_no": "119",
+			"grp_ques": "নিচের কোনটি Octal number নয়?",
+			"first": "19",
+			"second": "77",
+			"third": "15",
+			"fourth": "101",
+			"ans": "19"
+		},
+		{
+			"mcq_no": "120",
+			"grp_ques": "UNICODE (ইউনিকোড)- সাধারণত--",
+			"first": "৮ বিটের কোড",
+			"second": "৬৪ বিটের কোড",
+			"third": "১৬ বিটের কোড",
+			"fourth": "৩২ বিটের কোড",
+			"ans": "১৬ বিটের কোড"
+		},
+		{
+			"mcq_no": "121",
+			"grp_ques": "কমিউনিকেশন সিস্টেমে গেটওয়ে কি কাজে ব্যবহার হয়?",
+			"first": "বিভিন্ন নেটওয়ার্ক ডিভাইস সংযুক্ত করার কাজে",
+			"second": "দুই বা তার অধিক ভিন্ন ধরনের নেটওয়ার্ককে সংযুক্ত করার কাজে",
+			"third": "এটি নেটওয়ার্ক হাব কিংবা সুইচের মতই কাজ করে",
+			"fourth": "কোনটিই নয়",
+			"ans": "দুই বা তার অধিক ভিন্ন ধরনের নেটওয়ার্ককে সংযুক্ত করার কাজে"
+		},
+		{
+			"mcq_no": "122",
+			"grp_ques": "Time-shared OS-এর জন্য কোন scheduling policy সবচেয়ে ভালো?",
+			"first": "First come first serve",
+			"second": "Round-robin",
+			"third": "Shortest job first",
+			"fourth": "Last come first serve",
+			"ans": "Round-robin"
+		},
+		{
+			"mcq_no": "123",
+			"grp_ques": "অ্যান্ড্রয়েড অপারেটিং সিস্টেম প্রথম ব্যবহৃত হয়--",
+			"first": "২০০৭ সালে",
+			"second": "২০০৬ সালে",
+			"third": "২০০৮ সালে",
+			"fourth": "২০০৯ সালে",
+			"ans": "২০০৮ সালে"
+		},
+		{
+			"mcq_no": "124",
+			"grp_ques": "একটি রিলেশনেল ডাটাবেস মডেলে নিচের কোনটি দ্বারা Relation প্রকাশ করা হয়?",
+			"first": "Tuples",
+			"second": "Attribute",
+			"third": "Tables",
+			"fourth": "Rows",
+			"ans": "Attribute"
+		},
+		{
+			"mcq_no": "125",
+			"grp_ques": "মুদ্রিত লেখা সরাসরি ইনপুট করার জন্য নীচের কোনটি ব্যবহৃত হয়?",
+			"first": "OMR",
+			"second": "OCR",
+			"third": "MICR",
+			"fourth": "Scanner",
+			"ans": "MICR"
+		}],
+
+	"computer_six": [
+	{
+			"mcq_no": "126",
+			"grp_ques": "২০০০ সালের ১ জানুয়ারী সারা বিশ্বে কম্পিউটারে নতুন সহস্রাব্দজনিত একটি সমস্যার সম্মখীন হয়, সমস্যাটি হচ্ছে--",
+			"first": "Y2K",
+			"second": "K2Y",
+			"third": "2KY",
+			"fourth": "2YK",
+			"ans": "Y2K"
+		},
+		{
+			"mcq_no": "127",
+			"grp_ques": "ব্যান্ডউইথ কি?",
+			"first": "ডেটা সংরক্ষণের হার",
+			"second": "ডেটাপ্রবাহের হার",
+			"third": "ডেটা মুছে ফেলার হার",
+			"fourth": "ওপরের কোনটিই নয়",
+			"ans": "ডেটাপ্রবাহের হার"
+		},
+		{
+			"mcq_no": "128",
+			"grp_ques": "অ্যাপল কোম্পানি প্রথম কম্পিউটার বাজারে ছাড়ে কত সালে?",
+			"first": "১৯৮০ সালে",
+			"second": "১৯৭৬ সালে",
+			"third": "১৯৮৫ সালে",
+			"fourth": "১৯৭৪ সালে",
+			"ans": "১৯৭৬ সালে"
+		},
+		{
+			"mcq_no": "129",
+			"grp_ques": "প্রথম ডিজিটাল কম্পিউটারের নাম কি?",
+			"first": "মার্ক-১",
+			"second": "মাস্ক-১",
+			"third": "টোলার্ক-১",
+			"fourth": "টেকনো-১",
+			"ans": "মার্ক-১"
+		},
+		{
+			"mcq_no": "130",
+			"grp_ques": "নীচের কোনটি ইনপুট ডিভাইস?",
+			"first": "OMR",
+			"second": "COM",
+			"third": "Plotter",
+			"fourth": "Monitor",
+			"ans": "COM"
+		},
+		{
+			"mcq_no": "131",
+			"grp_ques": "সিরিয়াল পোর্ট মাউসে পিন থাকে--",
+			"first": "১২টি",
+			"second": "১০টি",
+			"third": "৬টি",
+			"fourth": "৯টি",
+			"ans": "৯টি"
+		},
+		{
+			"mcq_no": "132",
+			"grp_ques": "E-mail-এর উদ্ভাবক রে টমলিনসন কবে মৃত্যুবরণ করেন?",
+			"first": "১০ মার্চ ২০১৬",
+			"second": "৮ মার্চ ২০১৬",
+			"third": "৫ মার্চ ২০১৬",
+			"fourth": "১৫ মার্চ ২০১৬",
+			"ans": "১৫ মার্চ ২০১৬"
+		},
+		{
+			"mcq_no": "133",
+			"grp_ques": "বাংলাদেশে প্রথম কম্পিউটার স্থাপিত হয়--",
+			"first": "পরমাণু শক্তি কেন্দ্রে",
+			"second": "জাতীয় সংসদে",
+			"third": "সুপ্রিম কোর্টে",
+			"fourth": "ঢাকা বিশ্ববিদ্যালয়ে",
+			"ans": "পরমাণু শক্তি কেন্দ্রে"
+		},
+		{
+			"mcq_no": "134",
+			"grp_ques": "বিশ্বগ্রাম (Global Village) এর জনক বলা হয় কাকে?",
+			"first": "মার্শাল টিটো",
+			"second": "জন ভন নিউম্যান",
+			"third": "মার্শাল ম্যাকলুহান",
+			"fourth": "রবার্ট জনসন",
+			"ans": "মার্শাল ম্যাকলুহান"
+		},
+		{
+			"mcq_no": "135",
+			"grp_ques": "কম্পিউটার এর RAM হচ্ছে/ RAM in computer stands for",
+			"first": "Readily available memory",
+			"second": "Random access memory",
+			"third": "Read access memory",
+			"fourth": "Reading access memory",
+			"ans": "Random access memory"
+		},
+		{
+			"mcq_no": "136",
+			"grp_ques": "কম্পিউটারের ব্রেইন হলো--",
+			"first": "মেমোরি",
+			"second": "হার্ড ডিস্ক",
+			"third": "বায়োস",
+			"fourth": "মাইক্রো প্রসেসর",
+			"ans": "মাইক্রো প্রসেসর"
+		},
+		{
+			"mcq_no": "137",
+			"grp_ques": "ROM ভিত্তিক প্রোগ্রামের নাম কি?",
+			"first": "Malware",
+			"second": "Virus",
+			"third": "Lip-lop",
+			"fourth": "Firmware",
+			"ans": "Firmware"
+		},
+		{
+			"mcq_no": "138",
+			"grp_ques": "কম্পিউটার সিপিইউ (CPU)-এর কোন অংশ গাণিতিক সিদ্ধান্ত গ্রহণের কাজ করে?",
+			"first": "এ. এল. ইউ (ALU)",
+			"second": "কন্ট্রোল ইউনিট (control unit)",
+			"third": "রেজিস্টার সেট (Register set)",
+			"fourth": "কোনোটি নয়",
+			"ans": "এ. এল. ইউ (ALU)"
+		},
+		{
+			"mcq_no": "139",
+			"grp_ques": "সচ্ছ টাচস্ক্রিন উদ্ভাবন করেন কে?",
+			"first": "স্যামুয়েল জনসন",
+			"second": "স্যামুয়েল হার্স্ট",
+			"third": "স্যামুয়েল এল জ্যাকসন",
+			"fourth": "রবার্ট জনসন",
+			"ans": "স্যামুয়েল হার্স্ট"
+		},
+		{
+			"mcq_no": "140",
+			"grp_ques": "কম্পিউটারে এক মেগাবাইটে কত বাইট?",
+			"first": "১০০০ ´ ১০০০",
+			"second": "১০২৪ ´ ১০২৪",
+			"third": "১০৩২ ´ ১০৩২",
+			"fourth": "১০০ ´ ১০০",
+			"ans": "১০২৪ ´ ১০২৪"
+		},
+		{
+			"mcq_no": "141",
+			"grp_ques": "Bandwidth সাধারণত হিসেব করা হয়?",
+			"first": "Byte per second",
+			"second": "Bit per second",
+			"third": "Megabyte per second",
+			"fourth": "Kilobyte per second",
+			"ans": "Bit per second"
+		},
+		{
+			"mcq_no": "142",
+			"grp_ques": "নিচের কোনটি 3G Language নয়?",
+			"first": "C",
+			"second": "Java",
+			"third": "Assembly",
+			"fourth": "Machine Language",
+			"ans": "Java,Assembly,Machine Language"
+		},
+		{
+			"mcq_no": "143",
+			"grp_ques": "কম্পিউটারের প্রধান মেমরি-",
+			"first": "মাইক্রোপ্রসেসরের ভেতরে থাকে",
+			"second": "মাইক্রোপ্রসেসরের বাইরে থাকে",
+			"third": "মাইক্রোপ্রসেসর এবং সিপিইউ এর মাঝখানে থাকে",
+			"fourth": "সিপিইউ এর ভেতরে থাকে",
+			"ans": "মাইক্রোপ্রসেসর এবং সিপিইউ এর মাঝখানে থাকে"
+		},
+		{
+			"mcq_no": "144",
+			"grp_ques": "কম্পিউটারের সমস্যা সমাধানের উদ্দেশ্যে সম্পাদনের অনুক্রমে সাজানো নির্দেশাবলিকে বলা হয়-",
+			"first": "সফটওয়্যার",
+			"second": "প্রোগ্রাম",
+			"third": "অপারেটিং সিস্টেম",
+			"fourth": "হার্ডওয়ার",
+			"ans": "প্রোগ্রাম"
+		},
+		{
+			"mcq_no": "145",
+			"grp_ques": "মোবাইল ফোনে কোন Mode-এ যোগাযোগ হয়?",
+			"first": "Simplex",
+			"second": "Half-duplex",
+			"third": "Full-duplex",
+			"fourth": "কোনটিই নয়",
+			"ans": "Full-duplex"
+		},
+		{
+			"mcq_no": "146",
+			"grp_ques": "Supercomputer Mainframe এর চেয়ে",
+			"first": "কম শক্তিশালী",
+			"second": "বেশি শক্তিশালী",
+			"third": "সমান শক্তিসম্পন্ন",
+			"fourth": "কোনটিই সত্য নয়",
+			"ans": "বেশি শক্তিশালী"
+		},
+		{
+			"mcq_no": "147",
+			"grp_ques": "‘ল্যাপটপ’ হলো এক ধরনের-",
+			"first": "পর্বতারোহণ সামগ্রী",
+			"second": "ছোট কুকুর",
+			"third": "বাদ্যযন্ত্র",
+			"fourth": "ছোট কম্পিউটার",
+			"ans": "ছোট কম্পিউটার"
+		},
+		{
+			"mcq_no": "148",
+			"grp_ques": "ইন্টারনেট চালুর বছর---",
+			"first": "১৯৫৯",
+			"second": "১৯৬৫",
+			"third": "১৯৬৯",
+			"fourth": "১৯৮১",
+			"ans": "১৯৬৯"
+		},
+		{
+			"mcq_no": "149",
+			"grp_ques": "ডিস্ক ডিফ্রাগমেন্টেশান ব্যবহৃত হয়",
+			"first": "ডিস্কের ফাইলগুলোকে পুনর্বিন্যস্ত করতে",
+			"second": "ভাইরাস ধ্বংসের জন্য",
+			"third": "খারাপ সেক্টরসমূহ পরীক্ষা করতে",
+			"fourth": "ডিস্ক ফরমেট করতে",
+			"ans": "ডিস্কের ফাইলগুলোকে পুনর্বিন্যস্ত করতে"
+		},
+		{
+			"mcq_no": "150",
+			"grp_ques": "২৯ জুলাই ২০১৫ মাইক্রোসফট-এর কোন অপারেটিং সিস্টেমটি আনুষ্ঠানিকভাবে বাজারে আসে?",
+			"first": "উইন্ডোজ-১০",
+			"second": "উইন্ডোজ-১২",
+			"third": "উইন্ডোজ-৮",
+			"fourth": "উইন্ডোজ-৭",
+			"ans": "উইন্ডোজ-১০"
+		}
+	],
+
+	"computer_seven": [
+	{
+			"mcq_no": "151",
+			"grp_ques": "কম্পিউটারের প্রথম প্রোগ্রামিং ভাষা কোনটি?",
+			"first": "C++",
+			"second": "ADA",
+			"third": "FORTRAN",
+			"fourth": "PASCAL",
+			"ans": "ADA"
+		},
+		{
+			"mcq_no": "152",
+			"grp_ques": "কম্পিউটারের সফটওয়্যার বলতে বোঝানো হয়-",
+			"first": "এর প্রোগ্রাম বা কর্ম পরিকল্পনার কৌশল",
+			"second": "যে সব অংশ মুদ্রায়িত অস্থায় থাকে",
+			"third": "তথ্য দেয়া ও তথ্য নেয়ার অংশ",
+			"fourth": "কম্পিউটার তৈরির নক্সা",
+			"ans": "এর প্রোগ্রাম বা কর্ম পরিকল্পনার কৌশল"
+		},
+		{
+			"mcq_no": "153",
+			"grp_ques": "CRT এর পূর্ণরূপ কি?",
+			"first": "Cathode Ray Tube",
+			"second": "Cathode Ray Table",
+			"third": "Cathode Ray Toy",
+			"fourth": "None of these",
+			"ans": "Cathode Ray Tube"
+		},
+		{
+			"mcq_no": "154",
+			"grp_ques": "পঞ্চম প্রজন্মের কম্পিউটারের প্রধান বিশেষত্ব-",
+			"first": "বৃহৎ সহায়ক স্মৃতি",
+			"second": "কৃত্রিম বুদ্ধিমত্তা",
+			"third": "প্যারেলেল প্রসেসিং",
+			"fourth": "বহনযোগ্যতা",
+			"ans": "কৃত্রিম বুদ্ধিমত্তা"
+		},
+		{
+			"mcq_no": "155",
+			"grp_ques": "কম্পিউটারে Graphics Software ব্যবহৃত হয় কেন?",
+			"first": "বিভিন্ন হিসাব নিকাশ করার জন্য",
+			"second": "বিভিন্ন ধর্নের ছবি ও প্রচ্ছদ তৈরির জন্য",
+			"third": "বিভিন্ন ডেটা প্রসেসিং করার জন্য",
+			"fourth": "ওপরের কোনটিই নয়",
+			"ans": "বিভিন্ন ধর্নের ছবি ও প্রচ্ছদ তৈরির জন্য"
+		},
+		{
+			"mcq_no": "156",
+			"grp_ques": "নিচের কোনটি Programmable system?",
+			"first": "Computer",
+			"second": "Television",
+			"third": "Radio",
+			"fourth": "Photocopying Machine",
+			"ans": "Computer"
+		},
+		{
+			"mcq_no": "157",
+			"grp_ques": "ই-মেইল আদান প্রদানে ব্যবহৃত SMTP– এর পূর্ণরূপ কি?",
+			"first": "Simple Message Transmission Protocol",
+			"second": "Strategic Mail Transfer Protocol",
+			"third": "Strategic Mail Transmission Protocol",
+			"fourth": "Simple Mail Transfer Protocol",
+			"ans": "Simple Mail Transfer Protocol"
+		},
+		{
+			"mcq_no": "158",
+			"grp_ques": "কম্পিউটারের ব্রেইন বলা হয় কাকে?",
+			"first": "প্রোগ্রাম",
+			"second": "কী বোর্ড",
+			"third": "মাদার বোর্ড",
+			"fourth": "হার্ড ডিস্ক",
+			"five": "কোনটিই নয়",
+			"ans": "কোনটিই নয়"
+		},
+		{
+			"mcq_no": "159",
+			"grp_ques": "কম্পিউটারে মৌলিক গেইট কয়টি?",
+			"first": "দুইটি",
+			"second": "চারটি",
+			"third": "তিনটি",
+			"fourth": "একটি",
+			"ans": "তিনটি"
+		},
+		{
+			"mcq_no": "160",
+			"grp_ques": "আর্থিক লেনদেন বার্তা আদান-প্রদানকারী আন্তর্জাতিক নেটওয়ার্ক ব্যবস্থার নাম কি?",
+			"first": "SWIFT",
+			"second": "SWITT",
+			"third": "SWTIF",
+			"fourth": "SWITF",
+			"ans": "SWIFT"
+		},
+		{
+			"mcq_no": "161",
+			"grp_ques": "কম্পিউটার সিস্টেমে ‘ওয়ার্ড’ গঠনের সংমিশ্রণ হলো",
+			"first": "Bytes",
+			"second": "Bits",
+			"third": "Characters",
+			"fourth": "Symbols",
+			"ans": "Bits"
+		},
+		{
+			"mcq_no": "162",
+			"grp_ques": "কম্পিউটারের যন্ত্রাংশ বা যন্ত্রকে কি বলে?",
+			"first": "মনিটর",
+			"second": "আউটপুট",
+			"third": "হার্ডওয়্যার",
+			"fourth": "সফটওয়্যার",
+			"ans": "হার্ডওয়্যার"
+		},
+		{
+			"mcq_no": "163",
+			"grp_ques": "পৃথিবীতে কখন প্রথম ল্যাপটপ কম্পিউটার প্রবর্তিত হয় এবং কোন কোম্পানি এটি করে?",
+			"first": "কোমপ্যাক, ১৯৮৫",
+			"second": "এপসন, ১৯৮১",
+			"third": "আই.বি.এম, ১৯৮৩",
+			"fourth": "অ্যাপল কম্পিউটার, ১৯৭৭",
+			"ans": "এপসন, ১৯৮১"
+		},
+		{
+			"mcq_no": "164",
+			"grp_ques": "নিচের কোন প্রটোকলটি ইন্টারনেট সংযোগের ক্ষেত্রে সর্বাধিক ব্যবহৃত হয়?",
+			"first": "Novel network",
+			"second": "Net BEUI",
+			"third": "TCP/IP",
+			"fourth": "Linux",
+			"ans": "TCP/IP"
+		},
+		{
+			"mcq_no": "165",
+			"grp_ques": "কিবোর্ড ব্যবহার করে এম এস ওয়ার্ডে কোন ফাইল সেভ করতে হলে যে কমান্ড ব্যবহার করা হয়",
+			"first": "Ctrl + V",
+			"second": "Ctrl + A",
+			"third": "Ctrl + S",
+			"fourth": "Ctrl + C",
+			"ans": "Ctrl + S"
+		},
+		{
+			"mcq_no": "166",
+			"grp_ques": "কোনটি অপারেটিং সিস্টেম নয়?",
+			"first": "C",
+			"second": "DOS",
+			"third": "CP/M",
+			"fourth": "XENIX",
+			"ans": "C"
+		},
+		{
+			"mcq_no": "167",
+			"grp_ques": "ইউনিকোডের মাধ্যমে সম্ভাব্য কতগুলো চিহ্নকে নির্দিষ্ট করা যায়?",
+			"first": "২৫৬টি",
+			"second": "৪০৯৬টি",
+			"third": "৬৫৫৩৬টি",
+			"fourth": "৪২৯৪৯৬৭২৯৬টি",
+			"ans": "৬৫৫৩৬টি"
+		},
+		{
+			"mcq_no": "168",
+			"grp_ques": "অ্যান্টি-ভাইরাস সফটওয়্যার ম্যাকাফি এর জনক কে?",
+			"first": "জন নিয়াম্বু",
+			"second": "জন ম্যাকাফি",
+			"third": "বিল গেটস",
+			"fourth": "মার্ক জাকারবার্গ",
+			"ans": "জন ম্যাকাফি"
+		},
+		{
+			"mcq_no": "169",
+			"grp_ques": "কোনটি কম্পিউটারের সকল কার্যক্রম নিয়ন্ত্রণ করে?",
+			"first": "কন্ট্রোল ইউনিট",
+			"second": "সেন্ট্রাল প্রসেসিং ইউনিট",
+			"third": "গাণিতিক ইউনিট",
+			"fourth": "যুক্তি বর্তনী ইউনিট",
+			"ans": "সেন্ট্রাল প্রসেসিং ইউনিট"
+		},
+		{
+			"mcq_no": "170",
+			"grp_ques": "ই-কমার্স সাইট amazon.com কত সালে প্রতিষ্ঠিত হয়?",
+			"first": "১৯৯০ সালে",
+			"second": "১৯৮৮ সালে",
+			"third": "১৯৯৪ সালে",
+			"fourth": "১৯৯৮ সালে",
+			"ans": "১৯৯৪ সালে"
+		},
+		{
+			"mcq_no": "171",
+			"grp_ques": "বাংলাদেশের প্রথম ডিজিটাল কম্পিউটার পত্রিকার নাম কি?",
+			"first": "কম্পিউটার জগৎ",
+			"second": "আইটিকম",
+			"third": "কম্পিউটার বিচিত্রা",
+			"fourth": "কম্পিউটার নিউজ",
+			"ans": "কম্পিউটার জগৎ"
+		},
+		{
+			"mcq_no": "172",
+			"grp_ques": "UNIX অপারেটিং সিস্টেমের উদ্ভাবক প্রটিষ্ঠান",
+			"first": "আইবিএম",
+			"second": "বেল ল্যাব",
+			"third": "মাইক্রোসফট",
+			"fourth": "ইনটেল",
+			"ans": "বেল ল্যাব"
+		},
+		{
+			"mcq_no": "173",
+			"grp_ques": "কম্পিউটারের কেন্দ্রীয় প্রক্রিয়াকরণ অংশ গঠিত",
+			"first": "গ্রহণ মুখ ও নিয়ন্ত্রণ ও অংশের সমন্বয়ে",
+			"second": "স্মৃতি ও যুক্তি বর্তনী অংশের সমন্বয়ে",
+			"third": "অভ্যন্তরীণ স্মৃতি ও নিয়ন্ত্রণ অংশের সমন্বয়ে",
+			"fourth": "অভ্যন্তরীণ স্মৃতি, গাণিতিক যুক্তি অংশ ও নিয়ন্ত্রণ অংশের সমন্বয়ে",
+			"ans": "অভ্যন্তরীণ স্মৃতি, গাণিতিক যুক্তি অংশ ও নিয়ন্ত্রণ অংশের সমন্বয়ে"
+		},
+		{
+			"mcq_no": "174",
+			"grp_ques": "Wi-Max এর একটি Standard (আদর্শ) রয়েছে যা হলো",
+			"first": "৮০২.২২",
+			"second": "৮০২.১৬",
+			"third": "৮০২.১১",
+			"fourth": "৮০২.১২",
+			"ans": "৮০২.২২"
+		},
+		{
+			"mcq_no": "175",
+			"grp_ques": "বর্তমানে বাংলাদেশে যেটিতে MICR Technology ব্যবহৃত হচ্ছে",
+			"first": "ব্যাংকের চেক বই",
+			"second": "বাসের টিকেটে",
+			"third": "বিভিন্ন সুপার সপে",
+			"fourth": "ওপরের কোনটিই নয়",
+			"ans": "ব্যাংকের চেক বই"
+		}],
+
+	"computer_eight": [{
+			"mcq_no": "176",
+			"grp_ques": "টুইটারকে ইন্টারনেটের কি হিসেবে অবিহিত করা হয়?",
+			"first": "এস এম এস",
+			"second": "মেইল",
+			"third": "ডিভাইস",
+			"fourth": "অপারেটিং সিস্টেম",
+			"ans": "এস এম এস"
+		},
+		{
+			"mcq_no": "177",
+			"grp_ques": "ক্লাউড সার্ভার নীচের কোনটিতে সবচেয়ে ভালো বর্ণনা করা সম্ভব?",
+			"first": "নেটওয়ার্কের মাধ্যমে যুক্ত একাধিক কম্পিউটার সার্ভার",
+			"second": "একটি বিশাল ক্ষমতা সম্পন্ন কম্পিউটার সার্ভার",
+			"third": "ব্যবহারকারীর চাহিদা অনুযায়ী কম্পিউটিং সেবা দেয়া",
+			"fourth": "উপরর কোনোটিই নয়",
+			"ans": "ব্যবহারকারীর চাহিদা অনুযায়ী কম্পিউটিং সেবা দেয়া"
+		},
+		{
+			"mcq_no": "178",
+			"grp_ques": "বিশ্বব্যাপী বিপর্যয় সৃষ্টিকারী 'CIH' ভাইরাস কত তারিখে কম্পিউটারে আক্রমণ করে?",
+			"first": "২৬ এপ্রিল, ১৯৯৮",
+			"second": "২৬ মে, ১৯৯৮",
+			"third": "২৬ এপ্রিল, ১৯৯৯",
+			"fourth": "২৬ মে, ১৯৯৯",
+			"ans": "২৬ মে, ১৯৯৯"
+		},
+		{
+			"mcq_no": "179",
+			"grp_ques": "প্রোগ্রাম রচনা সবচেয়ে কঠিন",
+			"first": "উচ্চতর ভাষায়",
+			"second": "প্যাকেজের ভাষায়",
+			"third": "মেশিনের ভাষায়",
+			"fourth": "এসেম্বলি ভাষায়",
+			"ans": "মেশিনের ভাষায়"
+		},
+		{
+			"mcq_no": "180",
+			"grp_ques": "ফ্লপি ডিস্ক হচ্ছে",
+			"first": "একটি পরিবাহী স্মৃতি",
+			"second": "একটি প্রধান স্মৃতি",
+			"third": "হার্ডডিস্কের চেয়ে ছোট",
+			"fourth": "একটি শুধু গঠন স্মৃতি",
+			"ans": "হার্ডডিস্কের চেয়ে ছোট"
+		},
+		{
+			"mcq_no": "181",
+			"grp_ques": "ক্যাস্পারস্কি কি?",
+			"first": "এক ধরনের কম্পিউটার ভাইরাস",
+			"second": "এক ধরনের কম্পিউটার এন্টিভাইরাস",
+			"third": "এক ধরনের সিস্টেম সফটওয়্যার",
+			"fourth": "এক ধরনের অ্যাপ্লিকেশন সফটওয়্যার",
+			"ans": "এক ধরনের কম্পিউটার ভাইরাস"
+		},
+		{
+			"mcq_no": "182",
+			"grp_ques": "কোন ধরণের bus ব্যবহৃত হয় না?",
+			"first": "input-reader bus",
+			"second": "address bus",
+			"third": "data bus",
+			"fourth": "control bus",
+			"ans": "input-reader bus"
+		},
+		{
+			"mcq_no": "183",
+			"grp_ques": "One kilobyte is/ এক কিলোবাইটে বিটের সংখ্যা",
+			"first": "512 byte",
+			"second": "1000 byte",
+			"third": "1024 byte",
+			"fourth": "1048576 byte",
+			"ans": "1024 byte"
+		},
+		{
+			"mcq_no": "184",
+			"grp_ques": "বাতাস থেকে গতিশক্তি উৎপাদনের যন্ত্রের নাম কি?",
+			"first": "স'মিল",
+			"second": "উইন্ডমিল",
+			"third": "উইন্ডমেকার",
+			"fourth": "ওপরের কোনটিই নয়",
+			"ans": "উইন্ডমিল"
+		},
+		{
+			"mcq_no": "185",
+			"grp_ques": "কম্পিউটার নেটওয়ার্ক OSI মডেল এর স্তর কয়টি?",
+			"first": "5",
+			"second": "7",
+			"third": "9",
+			"fourth": "8",
+			"ans": "7"
+		},
+		{
+			"mcq_no": "186",
+			"grp_ques": "'হার্ডডিস্ক' মাপার একক হল",
+			"first": "মেগাবাইট",
+			"second": "গিগাবাইট",
+			"third": "কিলোবাইট",
+			"fourth": "টেরাবাইট",
+			"ans": "গিগাবাইট"
+		},
+		{
+			"mcq_no": "187",
+			"grp_ques": "নিচের কোনটি বহুকার্য নির্বাহক অপারেটিং সিস্টেম নয়?",
+			"first": "UNIX",
+			"second": "Windows-98",
+			"third": "Linux",
+			"fourth": "DOS",
+			"ans": "DOS"
+		},
+		{
+			"mcq_no": "188",
+			"grp_ques": "নীচের কোন প্রোগ্রামটি একটি সম্পূর্ণ কম্পিউটার প্রোগ্রামকে একেবারে অনুবাদ ও সম্পাদন করে?",
+			"first": "Interpreter",
+			"second": "Emulator",
+			"third": "Compiler",
+			"fourth": "Simulator",
+			"ans": "Compiler"
+		},
+		{
+			"mcq_no": "189",
+			"grp_ques": "কম্পিউটার সফটওয়্যার জগতে নামকরা প্রতিষ্ঠান কোনটি?",
+			"first": "অলিভেট",
+			"second": "আইবিএম",
+			"third": "এ্যাপেল ম্যাকিনটোশ",
+			"fourth": "মাইক্রোসফট",
+			"ans": "মাইক্রোসফট"
+		},
+		{
+			"mcq_no": "190",
+			"grp_ques": "বিশ্বের সর্বপ্রথম ইলেকট্রনিক কম্পিউটার",
+			"first": "ENIAC",
+			"second": "EDVAC",
+			"third": "UNIVAC",
+			"fourth": "IBM",
+			"five": "None of these",
+			"ans": "ENIAC"
+		},
+		{
+			"mcq_no": "191",
+			"grp_ques": "নেটওয়ার্ক সম্প্রসারণ করা ও দুটি ভিন্ন নেটওয়ার্ক এর মধ্যে সংযোগ ঘটাতে কি ব্যবহার করা হয়?",
+			"first": "রাউটার",
+			"second": "সিডি রোম",
+			"third": "ব্লুটুথ",
+			"fourth": "ওপরের কোনটিই নয়",
+			"ans": "রাউটার"
+		},
+		{
+			"mcq_no": "192",
+			"grp_ques": "কম্পিউটারের ক্ষেত্রে তথ্য পরিবহনের জন্য পরিবাহী পথকে বলা হয়",
+			"first": "মাউস",
+			"second": "বাস",
+			"third": "স্ক্যানার",
+			"fourth": "ইনফরমেশন সুপার হাইওয়ে",
+			"ans": "বাস"
+		},
+		{
+			"mcq_no": "193",
+			"grp_ques": "আধুনিক কম্পিউটারের জনক বলা হয় কাকে?",
+			"first": "বিল গেটস",
+			"second": "জন ভন নিউম্যান",
+			"third": "এইচ অলসেন",
+			"fourth": "ওপরের কেউ নয়",
+			"ans": "জন ভন নিউম্যান"
+		},
+		{
+			"mcq_no": "194",
+			"grp_ques": "প্যারালাল প্রসেসিং কোথায় ব্যবহৃত হয়",
+			"first": "দ্বিতীয় প্রজন্মের কম্পিউটারে",
+			"second": "প্রথম প্রজন্মের কম্পিউটারে",
+			"third": "ক ও খ উভয়ই",
+			"fourth": "ওপরের কোনটিই নয়",
+			"ans": "প্রথম প্রজন্মের কম্পিউটারে"
+		},
+		{
+			"mcq_no": "195",
+			"grp_ques": "EDSAC কম্পিউটার-এ ডাটা সংরক্ষণের জন্য কি ধরণের মেমরী ব্যবহার হতো?",
+			"first": "RAM",
+			"second": "ROM",
+			"third": "Mercury Delay Lines",
+			"fourth": "Registers",
+			"ans": "Mercury Delay Lines"
+		},
+		{
+			"mcq_no": "196",
+			"grp_ques": "DPI এর পূর্ণরূপ কি?",
+			"first": "Dots Per Inch",
+			"second": "Docs Per Inch",
+			"third": "Dots Proper Inch",
+			"fourth": "Docs Proper Inch",
+			"ans": "Dots Per Inch"
+		},
+		{
+			"mcq_no": "197",
+			"grp_ques": "HTTP এর পূর্ণরূপ কি?",
+			"first": "Hyper Transfer Text Protocol",
+			"second": "Hyper Transfer Text Policy",
+			"third": "Hyper Text Transfer Protocol",
+			"fourth": "Hyper Text Transfer Process",
+			"ans": "Hyper Text Transfer Protocol"
+		},
+		{
+			"mcq_no": "198",
+			"grp_ques": "কম্পিউটার পদ্ধতির দুটি প্রধান অঙ্গ হচ্ছে",
+			"first": "কেন্দ্রিয় প্রক্রিয়াকরণ অংশ ও স্মৃতি অংশ",
+			"second": "হার্ডওয়্যার ও অপারেটিং সিস্টেম অংশ",
+			"third": "হার্ডওয়ার ও সফটওয়্যার অংশ",
+			"fourth": "সফটওয়্যার কেন্দ্রীয় প্রক্রিয়াকরণ অংশ",
+			"ans": "হার্ডওয়ার ও সফটওয়্যার অংশ"
+		},
+		{
+			"mcq_no": "199",
+			"grp_ques": "3G বলতে বোঝায়",
+			"first": "Three Group",
+			"second": "Third Generation",
+			"third": "Third Group",
+			"fourth": "None of these",
+			"ans": "Third Generation"
+		},
+		{
+			"mcq_no": "200",
+			"grp_ques": "ক্লাউড কম্পিউটিংs এর সেবা দেওয়া হয় কখন থেকে?",
+			"first": "২০০১",
+			"second": "২০০৩",
+			"third": "২০০৫",
+			"fourth": "২০০৭",
+			"ans": "২০০৫"
+		}],
+
+	"computer_nine": [{
+			"mcq_no": "201",
+			"grp_ques": "কম্পিউটারে ডেটা সংরক্ষণে ব্যবহৃত হয়",
+			"first": "বাইনারী সংখ্যা পদ্ধতি",
+			"second": "নিউমেরিক্যাল সংখ্যা পদ্ধতি",
+			"third": "ডেসিমাল সংখ্যা পদ্ধতি",
+			"fourth": "হেক্সা ডেসিমাল সংখ্যা পদ্ধতি",
+			"ans": "বাইনারী সংখ্যা পদ্ধতি"
+		},
+		{
+			"mcq_no": "202",
+			"grp_ques": "অ্যান্ড্রয়েডের \"মার্শ ম্যালো (Marsh Mallow)\" অপারেটিং সিস্টেমটি কখন বাজারে আসে?",
+			"first": "১ অক্টোবর ২০১৫",
+			"second": "৫ অক্টোবর ২০১৫",
+			"third": "১০ অক্টোবর ২০১৫",
+			"fourth": "১৫ অক্টোবর ২০১৫",
+			"ans": "৫ অক্টোবর ২০১৫"
+		},
+		{
+			"mcq_no": "203",
+			"grp_ques": "Wi-Fi কোন স্ট্যান্ডার্ড-এর উপর ভিত্তি করে কাজ করে?",
+			"first": "IEEE 802.11",
+			"second": "IEEE 804.11",
+			"third": "IEEE 803.11",
+			"fourth": "IEEE 806.11",
+			"ans": "IEEE 802.11"
+		},
+		{
+			"mcq_no": "204",
+			"grp_ques": "ENIAC-এর পূর্ণরূপ কোনটি?",
+			"first": "Electronic Number Integrator and Computer",
+			"second": "Electronic Numerical Integrator and Computer",
+			"third": "Electronic Numerical Integral and Computer",
+			"fourth": "Electronic Numerical Integrator and Calculator",
+			"ans": "Electronic Numerical Integrator and Computer"
+		},
+		{
+			"mcq_no": "205",
+			"grp_ques": "আধুনিক ই-মেইলের জনক বা উদ্ভাবক কে?",
+			"first": "নোরিও ওহগা (জাপান)",
+			"second": "থমসন (ইংল্যান্ড)",
+			"third": "রে টমলিনসন (যুক্তরাষ্ট্র)",
+			"fourth": "জি. মার্কনি (ইতালি)",
+			"ans": "রে টমলিনসন (যুক্তরাষ্ট্র)"
+		},
+		{
+			"mcq_no": "206",
+			"grp_ques": "একটি অপটিক্যাল স্টোরেজ ডিভাইসের উদাহরণ হলো",
+			"first": "র‍্যাম",
+			"second": "সিডি রোম",
+			"third": "প্রিন্টার",
+			"fourth": "কোনটিই নয়",
+			"ans": "সিডি রোম"
+		},
+		{
+			"mcq_no": "207",
+			"grp_ques": "কোন চিহ্নটি ই-মেইল ঠিকানায় অবশ্যই থাকবে?",
+			"first": "@",
+			"second": "#",
+			"third": "&",
+			"fourth": "$",
+			"ans": "@"
+		},
+		{
+			"mcq_no": "208",
+			"grp_ques": "কম্পিউটারের ডিজিটাল পদ্ধতির অভ্যন্তরে সাধারণত যে সংখ্যা পদ্ধতি ব্যবহার করা হয় তাকে বলে",
+			"first": "বাইনারী",
+			"second": "হেক্সাডেসিমেল",
+			"third": "দশমিক",
+			"fourth": "অক্টাল",
+			"ans": "বাইনারী"
+		},
+		{
+			"mcq_no": "209",
+			"grp_ques": "ই-মেইল গ্রহণ করার অধিক ব্যবহৃত প্রোটকল কোনটি?",
+			"first": "POP9",
+			"second": "HTML",
+			"third": "POP3",
+			"fourth": "SMTP",
+			"ans": "SMTP"
+		},
+		{
+			"mcq_no": "210",
+			"grp_ques": "Wi-Fi এর কয়টি Standard (আদর্শ) রয়েছে",
+			"first": "১",
+			"second": "২",
+			"third": "৩",
+			"fourth": "৪",
+			"ans": "৩"
+		},
+		{
+			"mcq_no": "211",
+			"grp_ques": "URL-হলো",
+			"first": "Web-এর বিভিন্ন Documents ও অন্যান্য Resources এর ঠিকানা",
+			"second": "Network- এর বিভিন্ন Resources-এর ঠিকানা",
+			"third": "একটি LAN-এর বিভিন্ন Resources-এর ঠিকানা",
+			"fourth": "একটি Network- এর Domain",
+			"ans": "Web-এর বিভিন্ন Documents ও অন্যান্য Resources এর ঠিকানা"
+		},
+		{
+			"mcq_no": "212",
+			"grp_ques": "UNIX কি?",
+			"first": "অপারেটিং সিস্টেম",
+			"second": "প্যাকেজ সফটওয়্যার",
+			"third": "অ্যাপ্লিকেশন সফটওয়্যার",
+			"fourth": "ওপরের কোনটিই নয়",
+			"ans": "অপারেটিং সিস্টেম"
+		},
+		{
+			"mcq_no": "213",
+			"grp_ques": "WWW দিয়ে বোঝানো হয়",
+			"first": "World Wide Wonder",
+			"second": "World Wide Web",
+			"third": "Who What When",
+			"fourth": "World Woman's Welfare",
+			"ans": "World Wide Web"
+		},
+		{
+			"mcq_no": "214",
+			"grp_ques": "কম্পিউটার মেমোরী থেকে সংরক্ষিত ডাটা উত্তোলনের পদ্ধতিকে কি বলে?",
+			"first": "Read-out",
+			"second": "Read",
+			"third": "Read from",
+			"fourth": "উপরের সবগুলোই",
+			"ans": "Read"
+		},
+		{
+			"mcq_no": "215",
+			"grp_ques": "Firewall কি protection দেয়ার জন্য ব্যবহিত হয়?",
+			"first": "Fire attacks",
+			"second": "Unauthorized access",
+			"third": "Virus attacks",
+			"fourth": "Data-driven attacks",
+			"ans": "Unauthorized access"
+		},
+		{
+			"mcq_no": "216",
+			"grp_ques": "নিচের কোনটি ইউটিলিটি সফ্‌টওয়ার?",
+			"first": "উইন্ডোজ",
+			"second": "ওরাকল",
+			"third": "এন্টি ভাইরাস",
+			"fourth": "মাইক্রোসফ্‌ট ওয়ার্ড",
+			"ans": "এন্টি ভাইরাস"
+		},
+		{
+			"mcq_no": "217",
+			"grp_ques": "১ বাইটে বিটের সংখ্যা কত?",
+			"first": "১০",
+			"second": "৮",
+			"third": "৬",
+			"fourth": "৪",
+			"ans": "৮"
+		},
+		{
+			"mcq_no": "218",
+			"grp_ques": "নীচের কোনটি ৫২(১৬) এর বাইনারী রূপ?",
+			"first": "01010010(2)",
+			"second": "01110011(2)",
+			"third": "00001100(2)",
+			"fourth": "11110000(2)",
+			"ans": "01010010(2)"
+		},
+		{
+			"mcq_no": "2219",
+			"grp_ques": "নিচের কোনটি Octal number নয়?",
+			"first": "19",
+			"second": "77",
+			"third": "15",
+			"fourth": "101",
+			"ans": "19"
+		},
+		{
+			"mcq_no": "220",
+			"grp_ques": "UNICODE (ইউনিকোড)- সাধারণত--",
+			"first": "৮ বিটের কোড",
+			"second": "৬৪ বিটের কোড",
+			"third": "১৬ বিটের কোড",
+			"fourth": "৩২ বিটের কোড",
+			"ans": "১৬ বিটের কোড"
+		},
+		{
+			"mcq_no": "221",
+			"grp_ques": "কমিউনিকেশন সিস্টেমে গেটওয়ে কি কাজে ব্যবহার হয়?",
+			"first": "বিভিন্ন নেটওয়ার্ক ডিভাইস সংযুক্ত করার কাজে",
+			"second": "দুই বা তার অধিক ভিন্ন ধরনের নেটওয়ার্ককে সংযুক্ত করার কাজে",
+			"third": "এটি নেটওয়ার্ক হাব কিংবা সুইচের মতই কাজ করে",
+			"fourth": "কোনটিই নয়",
+			"ans": "দুই বা তার অধিক ভিন্ন ধরনের নেটওয়ার্ককে সংযুক্ত করার কাজে"
+		},
+		{
+			"mcq_no": "222",
+			"grp_ques": "Time-shared OS-এর জন্য কোন scheduling policy সবচেয়ে ভালো?",
+			"first": "First come first serve",
+			"second": "Round-robin",
+			"third": "Shortest job first",
+			"fourth": "Last come first serve",
+			"ans": "Round-robin"
+		},
+		{
+			"mcq_no": "223",
+			"grp_ques": "অ্যান্ড্রয়েড অপারেটিং সিস্টেম প্রথম ব্যবহৃত হয়--",
+			"first": "২০০৭ সালে",
+			"second": "২০০৬ সালে",
+			"third": "২০০৮ সালে",
+			"fourth": "২০০৯ সালে",
+			"ans": "২০০৮ সালে"
+		},
+		{
+			"mcq_no": "224",
+			"grp_ques": "একটি রিলেশনেল ডাটাবেস মডেলে নিচের কোনটি দ্বারা Relation প্রকাশ করা হয়?",
+			"first": "Tuples",
+			"second": "Attribute",
+			"third": "Tables",
+			"fourth": "Rows",
+			"ans": "Attribute"
+		},
+		{
+			"mcq_no": "225",
+			"grp_ques": "মুদ্রিত লেখা সরাসরি ইনপুট করার জন্য নীচের কোনটি ব্যবহৃত হয়?",
+			"first": "OMR",
+			"second": "OCR",
+			"third": "MICR",
+			"fourth": "Scanner",
+			"ans": "MICR"
+		}],
+
+	"computer_ten": [{
+			"mcq_no": "226",
+			"grp_ques": "২০০০ সালের ১ জানুয়ারী সারা বিশ্বে কম্পিউটারে নতুন সহস্রাব্দজনিত একটি সমস্যার সম্মখীন হয়, সমস্যাটি হচ্ছে--",
+			"first": "Y2K",
+			"second": "K2Y",
+			"third": "2KY",
+			"fourth": "2YK",
+			"ans": "Y2K"
+		},
+		{
+			"mcq_no": "227",
+			"grp_ques": "ব্যান্ডউইথ কি?",
+			"first": "ডেটা সংরক্ষণের হার",
+			"second": "ডেটাপ্রবাহের হার",
+			"third": "ডেটা মুছে ফেলার হার",
+			"fourth": "ওপরের কোনটিই নয়",
+			"ans": "ডেটাপ্রবাহের হার"
+		},
+		{
+			"mcq_no": "228",
+			"grp_ques": "অ্যাপল কোম্পানি প্রথম কম্পিউটার বাজারে ছাড়ে কত সালে?",
+			"first": "১৯৮০ সালে",
+			"second": "১৯৭৬ সালে",
+			"third": "১৯৮৫ সালে",
+			"fourth": "১৯৭৪ সালে",
+			"ans": "১৯৭৬ সালে"
+		},
+		{
+			"mcq_no": "229",
+			"grp_ques": "প্রথম ডিজিটাল কম্পিউটারের নাম কি?",
+			"first": "মার্ক-১",
+			"second": "মাস্ক-১",
+			"third": "টোলার্ক-১",
+			"fourth": "টেকনো-১",
+			"ans": "মার্ক-১"
+		},
+		{
+			"mcq_no": "230",
+			"grp_ques": "নীচের কোনটি ইনপুট ডিভাইস?",
+			"first": "OMR",
+			"second": "COM",
+			"third": "Plotter",
+			"fourth": "Monitor",
+			"ans": "COM"
+		},
+		{
+			"mcq_no": "231",
+			"grp_ques": "‘মডেম’ এর মধ্যে থাকে-",
+			"first": "একটি মডুলেটর",
+			"second": "একটি এনকোডার",
+			"third": "একটি কোডেক",
+			"fourth": "একটি মডুলেটর ও একটি ডিমডুলেটর",
+			"ans": "একটি মডুলেটর ও একটি ডিমডুলেটর"
+		},
+		{
+			"mcq_no": "232",
+			"grp_ques": "অ্যাবাকাস কি?",
+			"first": "এক প্রকার প্রাচীনতম খাওয়ার পাত্র",
+			"second": "এক প্রকার প্রাচীনতম প্রসাধন সামগ্রী",
+			"third": "এক প্রকার প্রাচীনতম গণনা যন্ত্র",
+			"fourth": "এক প্রকার প্রাচীনতম যন্ত্রযান",
+			"ans": "এক প্রকার প্রাচীনতম গণনা যন্ত্র"
+		},
+		{
+			"mcq_no": "233",
+			"grp_ques": "চরকি ডটকম (Chorki.com) কি?",
+			"first": "সার্চ ইঞ্জিন",
+			"second": "সামাজিক যোগাযোগ সাইট",
+			"third": "ওয়েব ব্রাউজার",
+			"fourth": "ওপরের কোনটিই নয়",
+			"ans": "সার্চ ইঞ্জিন"
+		},
+		{
+			"mcq_no": "234",
+			"grp_ques": "Plotter কোন ধরনের ডিভাইস?",
+			"first": "ইনপুট",
+			"second": "আউটপুট",
+			"third": "মেমোরি",
+			"fourth": "উপরের কোনটিই নয়",
+			"ans": "আউটপুট"
+		},
+		{
+			"mcq_no": "235",
+			"grp_ques": "কোন কম্পিউটার মেমোরি কখনো স্মৃতিভ্রংশ হয় না?",
+			"first": "ROM",
+			"second": "RAM",
+			"third": "PROM",
+			"fourth": "EPROM",
+			"ans": "ROM"
+		},
+		{
+			"mcq_no": "236",
+			"grp_ques": "ইন্টারনেটের মাধ্যমে উন্নত চিকিৎসা পদ্ধতিকে বলা হয়",
+			"first": "টেলিমেডিসিন",
+			"second": "ইলেকট্রোমেডিসিন",
+			"third": "জায়মাপ্লাজম",
+			"fourth": "ই-ট্রিটমেন্ট",
+			"ans": "টেলিমেডিসিন"
+		},
+		{
+			"mcq_no": "237",
+			"grp_ques": "বর্তমানে (২০১৬) স্মার্টফোন ব্যবহারে শীর্ষ দেশ কোনটি?",
+			"first": "ভারত",
+			"second": "চীন",
+			"third": "রাশিয়া",
+			"fourth": "যুক্তরাষ্ট্র",
+			"ans": "চীন"
+		},
+		{
+			"mcq_no": "238",
+			"grp_ques": "H.323 Protocol সাধারণত কি কাজে ব্যবহৃত হয়?",
+			"first": "File transfer",
+			"second": "VoiP",
+			"third": "Data security",
+			"fourth": "File download",
+			"ans": "VoiP"
+		},
+		{
+			"mcq_no": "239",
+			"grp_ques": "HTML--",
+			"first": "Hyper text Markup Language",
+			"second": "Hyper Test Message Link",
+			"third": "High Text Message Link",
+			"fourth": "High Test Markup Language",
+			"ans": "Hyper text Markup Language"
+		},
+		{
+			"mcq_no": "240",
+			"grp_ques": "বর্তমানে যে প্রটোকলের মাধ্যমে ইন্টারনেট ব্যবহার করে টেলিফোন করা যায় তার নাম-",
+			"first": "ভয়েস ওভার আইপি",
+			"second": "ইন্টারনেট টেলিফোন",
+			"third": "মডেম",
+			"fourth": "পোস্ট অফিস প্রটোকল",
+			"ans": "ভয়েস ওভার আইপি"
+		},
+		{
+			"mcq_no": "241",
+			"grp_ques": "কম্পিউটার এবং ফোন লাইনের মধ্যে সংযোগ স্থাপনে ব্যবহৃত হয়-",
+			"first": "প্রিন্টার",
+			"second": "মাউস",
+			"third": "মডেম",
+			"fourth": "পটার",
+			"ans": "মডেম"
+		},
+		{
+			"mcq_no": "242",
+			"grp_ques": "বর্তমানে কম্পিউটার জগতের কিংবদন্তী কে?",
+			"first": "বিল গেটস",
+			"second": "সেমুর ক্রেগ",
+			"third": "উইলিয়াম ইংলিশ",
+			"fourth": "জর্জ বোলে",
+			"ans": "বিল গেটস"
+		},
+		{
+			"mcq_no": "243",
+			"grp_ques": "১০ আগস্ট ২০১৫ থেকে গুগল যে কোম্পানির অধীন--",
+			"first": "ইউটিব",
+			"second": "ফেসবুক",
+			"third": "মাইক্রোসফট",
+			"fourth": "অ্যালফাবেট",
+			"ans": "অ্যালফাবেট"
+		},
+		{
+			"mcq_no": "244",
+			"grp_ques": "নিচের কোন স্মার্টফোন অপারেটিং সিস্টেমটি ওপেন প্লাটফর্ম?",
+			"first": "IOS",
+			"second": "Windows Phone",
+			"third": "Android",
+			"fourth": "Symbian",
+			"ans": "Android"
+		},
+		{
+			"mcq_no": "245",
+			"grp_ques": "কোনটি মাইক্রোসফটের প্রথম প্রোগ্রাম?",
+			"first": "MS DOS",
+			"second": "Windows XP",
+			"third": "Windows 98",
+			"fourth": "Windows 7",
+			"ans": "MS DOS"
+		},
+		{
+			"mcq_no": "246",
+			"grp_ques": "নিম্নের কোনটি কম্পিউটারের প্রাইমারী মেমোরী?",
+			"first": "RAM",
+			"second": "Hard Disk",
+			"third": "Pen drive",
+			"fourth": "কোনটিই নয়",
+			"ans": "RAM"
+		},
+		{
+			"mcq_no": "247",
+			"grp_ques": "নিচের কোন কাজের জন্য কম্পিউটার বেশি সুবিধাজনক",
+			"first": "পুনরাবৃত্তিমুলক কাজ",
+			"second": "গাণিতিক কাজ",
+			"third": "হিসাবরক্ষণ কাজ",
+			"fourth": "প্রতিবেদন প্রণয়ন",
+			"ans": "পুনরাবৃত্তিমুলক কাজ"
+		},
+		{
+			"mcq_no": "248",
+			"grp_ques": "ক্যাবল সংযোগ ছাড়াই স্যাটেলাইট টিভি দেখার উন্নত প্রযুক্তির নাম কি?",
+			"first": "DTA",
+			"second": "DTH",
+			"third": "DHT",
+			"fourth": "DTHA",
+			"ans": "DTH"
+		},
+		{
+			"mcq_no": "249",
+			"grp_ques": "BCD-এর পূর্ণরূপ নিচের কোনটি?",
+			"first": "Bainary Coded Data",
+			"second": "Bainary Coded Decimal",
+			"third": "Bainary Calculated Decimal",
+			"fourth": "None of these",
+			"ans": "Bainary Coded Decimal"
+		},
+		{
+			"mcq_no": "250",
+			"grp_ques": "ইনস্টাগ্রাম চালু হয়--",
+			"first": "২০০৮ সালে",
+			"second": "২০১০ সালে",
+			"third": "২০১২ সালে",
+			"fourth": "২০০৬ সালে",
+			"ans": "২০১০ সালে"
+		}]
+	
+}

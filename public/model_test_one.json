@@ -1,0 +1,1433 @@
+{
+	"model_one ": [{
+			"mcq_no": "০১",
+			"grp_ques": "বঙ্গভূমির প্রতি' কবিতাটি রচনা করেন_",
+			"first": "মাইকেল মধুসূদন দত্ত",
+			"second": "সুকান্ত ভট্টাচার্য",
+			"third": "রবীন্দ্রনাথ ঠাকুর",
+			"fourth": "দ্বিজেন্দ্রলাল রায"
+		}, {
+			"mcq_no": "০২",
+			"grp_ques": "কোনটি জাতি অর্থে স্ত্রীলিঙ্গ?",
+			"first": "দিদি",
+			"second": "নাতিনি",
+			"third": "নাতবৌ",
+			"fourth": "সালাজ"
+		}, {
+			"mcq_no": "০৩",
+			"grp_ques": "বাক্যের ক্রিয়া ও কর্ম পদ একই ধাতু থেকে গঠিত হলে তাকে কি বলে?",
+			"first": "ক্রিয়া",
+			"second": "সমধাতুজ",
+			"third": "মুখ্য কর্ম",
+			"fourth": "গৌণ কর্ম"
+		}, {
+			"mcq_no": "০৪",
+			"grp_ques": "কোন গ্রন্থটি সুকান্ত ভট্টাচার্য কর্তৃক রচিত?",
+			"first": "হরতাল",
+			"second": "পালাবদল",
+			"third": "উত্তীর্ণ পঞ্চাশে",
+			"fourth": "অনিষ্ট স্বদেশ"
+		}, {
+			"mcq_no": "০৫",
+			"grp_ques": "‘অর্ধচন্দ্র’ এর অর্থ -",
+			"first": "অমাবস্যা",
+			"second": "গলাধাক্কা দেওয়া",
+			"third": "কাস্তে",
+			"fourth": "দ্বিতীয়"
+		}, {
+			"mcq_no": "০৬",
+			"grp_ques": "বাংলা সাহিত্যে সনেট রচনার প্রবর্তক কে?",
+			"first": "মাইকেল মধুসূদন দত্ত",
+			"second": "রবীন্দ্রনাথ ঠাকুর",
+			"third": "দেবেন্দ্রনাথ সেন",
+			"fourth": "মোহিতলাল মজুমদার"
+		}, {
+			"mcq_no": "০৭",
+			"grp_ques": "উপসর্গের সঙ্গে প্রত্যয়ের পার্থক্য-",
+			"first": "অব্যয় ও শব্দাংশ",
+			"second": "নূতন শব্দ গঠনে",
+			"third": "উপসর্গ থাকে সামনে, প্রত্যায় থাকে পেছনে",
+			"fourth": "ভিন্ন অর্থ প্রকাশে"
+		}, {
+			"mcq_no": "০৮",
+			"grp_ques": "ড. মুহম্মদ শহীদুল্লাহ্‌ ছিলেন প্রধানত-",
+			"first": "ভাষাতত্ত্ববিদ",
+			"second": "সাহিত্যের ইতিহাস রচয়িতা",
+			"third": "ইসলাম প্রচারক",
+			"fourth": "সমাজ সংস্কারক"
+		}, {
+			"mcq_no": "০৯",
+			"grp_ques": "আমার স্বপ্ন হোক ফসলের সুষম বণ্টন- কোন কবি বলেছেন?",
+			"first": "মীর মশাররফ হোসেন",
+			"second": "আল মাহমুদ",
+			"third": "সমর সেন",
+			"fourth": "সুকান্ত ভট্টাচার্য"
+		}, {
+			"mcq_no": "১০",
+			"grp_ques": "চর্যাপদ আবিষ্কৃত হয় কোথা থেকে ?",
+			"first": "বাঁকুড়ার এক গৃহস্থের গোয়াল ঘর থেকে",
+			"second": "আরাকান রাজগ্রন্থাগার থেকে",
+			"third": "নেপালের রাজগ্রন্থশালা থেকে",
+			"fourth": "সুদূর চীন দেশ থেকে"
+		}, {
+			"mcq_no": "১১",
+			"grp_ques": "‘গিন্নি’ কোন শব্দ?",
+			"first": "অর্ধ তৎসম",
+			"second": "তদ্ভব",
+			"third": "বিদেশী",
+			"fourth": "তৎসম"
+		}, {
+			"mcq_no": "১২",
+			"grp_ques": "রাখাল গরুকে ঘাস খাওয়ায়-‘গরু’ শব্দটি কোন কর্তা?",
+			"first": "প্রযোজক কর্তা",
+			"second": "প্রযোজ্য কর্তা",
+			"third": "ব্যাতিহার কর্তা",
+			"fourth": "মুখ্য কর্তা"
+		}, {
+			"mcq_no": "১৩",
+			"grp_ques": "‘কালের যাত্রা’ নাটকটির রচয়িতা-",
+			"first": "রবীন্দ্রনাথ ঠাকুর",
+			"second": "সিকান্দার আবু জাফর",
+			"third": "মুনির চৌধুরী",
+			"fourth": "সৈয়দ শামসুল হক"
+		}, {
+			"mcq_no": "১৪",
+			"grp_ques": "কাজী নজরুল ইসলামের প্রথম কবিতা -",
+			"first": "বিদ্রোহী",
+			"second": "কোনটিই না",
+			"third": "মুক্তি",
+			"fourth": "আনন্দময়ীর আগমনে"
+		}, {
+			"mcq_no": "১৫",
+			"grp_ques": "শীতার্ত শব্দের সন্ধি বিচ্ছেদ নিচের কোনটি?",
+			"first": "শীত+আর্ত",
+			"second": "শীত+ঝত",
+			"third": "শীতা+রত",
+			"fourth": "শী+তার্ত"
+		}, {
+			"mcq_no": "১৬",
+			"grp_ques": "কোন গ্রন্থটি ঢাকা হতে প্রথম প্রকাশিত হয়েছিল?",
+			"first": "মেঘনাদবধ কাব্য",
+			"second": "দুর্গেশ নন্দিনী",
+			"third": "নীলদর্পণ",
+			"fourth": "অগ্নিবীণা"
+		}, {
+			"mcq_no": "১৭",
+			"grp_ques": "Ambiguous এর পরিভাষা-",
+			"first": "উভয়বলতা",
+			"second": "উভচর",
+			"third": "উভবল",
+			"fourth": "দ্ব্যর্থক"
+		}, {
+			"mcq_no": "১৮",
+			"grp_ques": "‘কি হেতু এসেছ কহ বিস্তারিয়া’ এখানে ‘হেতু’ অনুসর্গটি কি অর্থ প্রকাশ করেছে?",
+			"first": "নিমিত্ত",
+			"second": "প্রসঙ্গ",
+			"third": "প্রার্থনা",
+			"fourth": "ব্যাপার"
+		}, {
+			"mcq_no": "১৯",
+			"grp_ques": "‘এনেছিলে সাথে করে মৃতুহীন প্রাণ, মরণে তাই তুমি করে গেলে দান।’ কবিশুরু রবীন্দ্রনাথ ঠাকুর কাকে উদ্দেশ্য করে কথাগুলো লিখেছিলেন?",
+			"first": "চিত্তরঞ্জন দাস",
+			"second": "নবীনচন্দ্র",
+			"third": "আশুতোষ মুখোপাধ্যায়",
+			"fourth": "রবীন্দ্রনাথ ঠাকুর"
+		}, {
+			"mcq_no": "২০",
+			"grp_ques": "সাহিত্যে অলঙ্কার প্রধানত কত প্রকার?",
+			"first": "৫",
+			"second": "৪",
+			"third": "২",
+			"fourth": "৬"
+		}, {
+			"mcq_no": "২১",
+			"grp_ques": "‘জয়ের জন্য যে উৎসব’- এক কথায় কি হবে?",
+			"first": "জয়ান্তী",
+			"second": "জয়ন্তী",
+			"third": "বিজয় উৎসব",
+			"fourth": "বিজয়জয়ন্তী"
+		}, {
+			"mcq_no": "২২",
+			"grp_ques": "মৌলিক শব্দ কোনটি?",
+			"first": "গোলাপ",
+			"second": "শীতল",
+			"third": "নেয়ে",
+			"fourth": "গৌরব"
+		}, {
+			"mcq_no": "২৩",
+			"grp_ques": "লাজ- কোন ধরনের শব্দ?",
+			"first": "বিশেষ্য",
+			"second": "বিশেষণ",
+			"third": "ক্রিয়া-বিশেষণ",
+			"fourth": "বিশেষ্যের-বিশেষণ"
+		}, {
+			"mcq_no": "২৪",
+			"grp_ques": "কুলীন কুল সর্বস্ব নাটকটি কার রচনা?",
+			"first": "মাইকেল মধুসূদন দত্ত",
+			"second": "দীনবন্ধু মিত্র",
+			"third": "রামনারায়ণ তর্করত্ন",
+			"fourth": "রবীন্দ্রনাথ ঠাকুর"
+		}, {
+			"mcq_no": "২৫",
+			"grp_ques": "কোনটি ভাষার বৈশিষ্ট্য নয়?",
+			"first": "মানুষের কণ্ঠনিঃসৃত ধ্বনি",
+			"second": "জনসমাজের ব্যবহার যোগ্যতা",
+			"third": "অর্থদ্যোতকতা",
+			"fourth": "ইশারা বা অঙ্গভঙ্গি"
+		}, {
+			"mcq_no": "২৬",
+			"grp_ques": "এমন সুখের মরন কে মরতে পারে?- কোন কর্মের উদাহরণ?",
+			"first": "সমধাতুজ কর্ম",
+			"second": "সকর্মক",
+			"third": "মুখ্য কর্ম",
+			"fourth": "গৌণ কর্মে"
+		}, {
+			"mcq_no": "২৭",
+			"grp_ques": "বাংলা ভাষায় প্রথম সাময়িকপত্র কোনটি ?",
+			"first": "দিক্‌দর্শন",
+			"second": "সংবাদ প্রভাকর",
+			"third": "তত্তবোধিনী",
+			"fourth": "বঙ্গদর্শন"
+		}, {
+			"mcq_no": "২৮",
+			"grp_ques": "হেলাল শব্দের সমার্থক শব্দ নিচের কোনটি?",
+			"first": "রাকা",
+			"second": "আদিত্য",
+			"third": "রবি",
+			"fourth": "ফাল্গুনী"
+		}, {
+			"mcq_no": "২৯",
+			"grp_ques": "নিচের কোনটি দেশী শব্দ নয় ?",
+			"first": "সূর্য",
+			"second": "কুড়ি",
+			"third": "পেট",
+			"fourth": "কুলা"
+		}, {
+			"mcq_no": "৩০",
+			"grp_ques": "জীবে দয়া করে সাধুজন ।এখানে জীবে কোন কারকের কোন বিভক্তি ?",
+			"first": "কর্মে শূন্য",
+			"second": "করণে সপ্তমী",
+			"third": "অধিকরণে সপ্তমী",
+			"fourth": "সম্প্রদানে সপ্তমী"
+		}, {
+			"mcq_no": "৩১",
+			"grp_ques": "কোন ব্যাকটিতে সমধাতুজ কর্ম আছে?",
+			"first": "সেই বই পড়ছে",
+			"second": "সে গভীর চিন্তায় মগ্ন",
+			"third": "সে ঘুমিয়ে আছে",
+			"fourth": "সে যে চাল চেলেছে তাতে তাকে ষড়য়ন্ত্রকারী ছাড়া আর ‍কিছু বলা যায় না"
+		}, {
+			"mcq_no": "৩২",
+			"grp_ques": "ভাষা আন্দোলনভিত্তিক নাটক কোনটি?",
+			"first": "কবর",
+			"second": "পায়ের আওয়াজ পাওয়া যায়",
+			"third": "জন্ডিস ও বিবিধ বেলুন",
+			"fourth": "ওরা কদম আলী"
+		}, {
+			"mcq_no": "৩৩",
+			"grp_ques": "‘নন্দিনী' রবীন্দ্রনাথ ঠাকুরের কোন লেখার প্রধান চরিত্র?",
+			"first": "পোস্টমাস্টার",
+			"second": "ছুটি",
+			"third": "কাবুলীওয়ালা",
+			"fourth": "রক্তকরবী"
+		}, {
+			"mcq_no": "৩৪",
+			"grp_ques": "নিত্য স্ত্রীবাচক তৎসম শব্দ কোনটি?",
+			"first": "বিধাতা",
+			"second": "বান্ধবী",
+			"third": "বিধাত্রী",
+			"fourth": "কুলটা//বিরহিনী"
+		}, {
+			"mcq_no": "৩৫",
+			"grp_ques": "জীবনানন্দ দাশের প্রবন্ধগ্রন্থ কোনটি ?",
+			"first": "ধূসর পান্ডুলিপি",
+			"second": "কবিতার কথা",
+			"third": "ঝরা পালকের কবি",
+			"fourth": "দুর্দিনের যাত্রী"
+		}, {
+			"mcq_no": "৩৬",
+			"grp_ques": "এসবেসটস কী?",
+			"first": "অগ্নি নিরোধক খনিজ পদার্থ",
+			"second": "কম ঘনত্ববিশিষ্ট তরল পদার্থ",
+			"third": "বেশি ঘনত্ববিশিষ্ট তরল পদার্থ",
+			"fourth": "এক ধরনের রাসায়নিক পদার্থ"
+		}, {
+			"mcq_no": "৩৭",
+			"grp_ques": "বাতাসের নাইট্রোজেন কীভাবে মাটির উর্বরতা বৃদ্ধি করে?",
+			"first": "সরাসরি মাটিতে মিশ্রিত হয়ে জৈব প্রস্তুত করে",
+			"second": "ব্যাকটেরিয়ার সাহায্যে উদ্ভিদের গ্রহণ উপযোগী বস্তু প্রস্তুত করে",
+			"third": "পানিতে মিশে মাটিতে শোষিত হওয়ার ফলে",
+			"fourth": "মাটির অজৈব লবণনে পরিবর্তিত করে"
+		}, {
+			"mcq_no": "৩৮",
+			"grp_ques": "হাইড্রোজেন মৌলের অণুতে পরমাণুর সংখ্যা কত?",
+			"first": "এক",
+			"second": "দুই",
+			"third": "তিন",
+			"fourth": "চার"
+		}, {
+			"mcq_no": "৩৯",
+			"grp_ques": "সূর্যে কোনো বস্তুর ওজন পৃথিবীতে ঐ বস্তুর ওজনের কতগুন?",
+			"first": "১/৩",
+			"second": "১/৪",
+			"third": "১/৬",
+			"fourth": "১/২৭"
+		}, {
+			"mcq_no": "৪০",
+			"grp_ques": "‘মধুবালা‘ নামটি কি জন্য বিখ্যাত ?",
+			"first": "উন্নত প্রজাতির ধান",
+			"second": "হলদে জাতের তরমুজ হিসাবে",
+			"third": "নায়িকার নাম",
+			"fourth": "পুরস্কার প্রাপ্ত ছবি"
+		}, {
+			"mcq_no": "৪১",
+			"grp_ques": "কোন আলোক তরঙ্গে মানব চোখে দেখতে পাওয়া যায় ?",
+			"first": "১০ থেকে ৪০০ নেমি",
+			"second": "৪০০ থেকে ৭০০ নেমি",
+			"third": "১০০ মাইচ্রোমিটার থেকে ১ মি.",
+			"fourth": "১ মি এর ঊর্ধে"
+		}, {
+			"mcq_no": "৪২",
+			"grp_ques": "কোন মাধ্যম শব্দের গতি সবচেয়ে কম?",
+			"first": "শূণ্যতায়",
+			"second": "তরল পদার্থে",
+			"third": "বায়বীয় পদার্থে",
+			"fourth": "কঠিন পদার্থে"
+		}, {
+			"mcq_no": "৪৩",
+			"grp_ques": "ঝালাইয়ের কাজে ব্যবহৃত হয়",
+			"first": "কার্বন ডাই অক্সাইড",
+			"second": "অক্সি আসিটিলিন",
+			"third": "সালফিউরিক এসিড",
+			"fourth": "ফসফরাস"
+		}, {
+			"mcq_no": "৪৪",
+			"grp_ques": "অতিরিক্ত খাদ্য থেকে লিভারে সঞ্চিত সুগার হল -",
+			"first": "গ্লাইকোজেন",
+			"second": "গ্লুকোজ",
+			"third": "ফ্রুক্টোজ",
+			"fourth": "সুক্রোজ"
+		}, {
+			"mcq_no": "৪৫",
+			"grp_ques": "ওজোনের রঙ কি ?",
+			"first": "গাঢ় নীল",
+			"second": "গাঢ় সবুজ",
+			"third": "ধবধবে সাদা",
+			"fourth": "হলদে বেগুনি"
+		}, {
+			"mcq_no": "৪৬",
+			"grp_ques": "বিশ্বের সর্বপ্রথম ইলেকট্রনিক কম্পিউটার কোনটি?",
+			"first": "EDVAC",
+			"second": "ENIAC",
+			"third": "IBM",
+			"fourth": "A.B.C"
+		}, {
+			"mcq_no": "৪৭",
+			"grp_ques": "কেঁচোর রক্তে হিমোগ্লোবিন থাকে কোথায়?",
+			"first": "লোহিত কণিকায়",
+			"second": "শ্বেত কণিকায়",
+			"third": "রক্তরসে",
+			"fourth": "সব জায়গায়"
+		}, {
+			"mcq_no": "৪৮",
+			"grp_ques": "যে সকল ব্যাকটেরিয়া রোগ সৃস্টি করে তাদের কি বলে ?",
+			"first": "এনারোবিক ব্যাকটেরিয়া",
+			"second": "এরোবিক ব্যাকটেরিয়া",
+			"third": "ফেকাটেটিভ ব্যাকটেরিয়া",
+			"fourth": "উপরের কোনটিই নয়"
+		}, {
+			"mcq_no": "৪৯",
+			"grp_ques": "উষ্ণতা পরিমাপে কোনটি ব্যাবহৃত হয়?",
+			"first": "মিটার স্কেল",
+			"second": "কেলভিন স্কেল",
+			"third": "ভার্ণিয়ার স্কেল",
+			"fourth": "স্লাইড ক্যালেপার্স"
+		}, {
+			"mcq_no": "৫০",
+			"grp_ques": "স্টেপ আপ বা আরোহী ট্রান্সফরমারের মুখ্য কুন্ডলী থেকে গৌণ কুন্ডলীর তারের পাকের সংখ্যা কি রকম থাকে?",
+			"first": "সমান",
+			"second": "কম",
+			"third": "বেশী",
+			"fourth": "থাকে না"
+		}, {
+			"mcq_no": "৫১",
+			"grp_ques": "বাংলাদেশের উষ্ণতম জেলা-",
+			"first": "রংপুর",
+			"second": "সিলেট",
+			"third": "ঢাকা",
+			"fourth": "রাজশাহী"
+		}, {
+			"mcq_no": "৫২",
+			"grp_ques": "যমুনা বঙ্গবন্ধু সেতুর পিলার কয়টি?",
+			"first": "৭৫ টি",
+			"second": "৫৯ টি",
+			"third": "৫০ টি",
+			"fourth": "৪৫ টি"
+		}, {
+			"mcq_no": "৫৩",
+			"grp_ques": "বাংলাদেশের আপিল বিভাগে মোট বিচারক –",
+			"first": "১১",
+			"second": "২১",
+			"third": "৯",
+			"fourth": "১৫"
+		}, {
+			"mcq_no": "৫৪",
+			"grp_ques": "বাংলাদেশে কৃষিক্ষেত্রে 'বলাকা' ও 'দোয়েল' নাম দুটি কিসের ?",
+			"first": "দুটি কৃষি যন্ত্রপাতির নাম",
+			"second": "দুটি কৃষি সংস্থায়ের নাম",
+			"third": "উন্নত জাতের গম শস্য",
+			"fourth": "কৃষি খামারের নাম"
+		}, {
+			"mcq_no": "৫৫",
+			"grp_ques": "The Asian Drama- গ্রন্থের রচয়িতা কে?",
+			"first": "অমর্ত্য সেন",
+			"second": "গুনার মিরডাল",
+			"third": "মাইকেল লিফটন",
+			"fourth": "উইলিয়াম রস্টো"
+		}, {
+			"mcq_no": "৫৬",
+			"grp_ques": "লালন জাদুঘর কোথায় অবস্থিত?",
+			"first": "যশোর",
+			"second": "বগুড়া",
+			"third": "কুষ্টিয়া",
+			"fourth": "রাজশাহী"
+		}, {
+			"mcq_no": "৫৭",
+			"grp_ques": "ক্রিকেট ব্যাট তৈরী হয় কোন গাছের কাঠ দিয়ে?",
+			"first": "সুন্দরী কাঠ",
+			"second": "উইলো কাঠ",
+			"third": "চেরি কাঠ",
+			"fourth": "সবগুলো"
+		}, {
+			"mcq_no": "৫৮",
+			"grp_ques": "ঢাকা থেকে সরাসরি নোয়াখালী যাওয়ার আন্তঃ মহানগরীর ট্রেনটির নাম -",
+			"first": "এগার সিন্দুর এক্সপ্রেস",
+			"second": "পারাবত এক্সপ্রেস",
+			"third": "উপকূল এক্সপ্রেস",
+			"fourth": "সৈকত এক্সপ্রেস"
+		}, {
+			"mcq_no": "৫৯",
+			"grp_ques": "সম্প্রতি আলোচিত ''অনুরাধাপুর'' কোথায় অবস্থিত?",
+			"first": "ভুটান",
+			"second": "বাংলাদেশ",
+			"third": "শ্রীলংকা",
+			"fourth": "ভারত"
+		}, {
+			"mcq_no": "৬০",
+			"grp_ques": "বাংলা মুসলিম শাসনের সুচনা করেন কে?",
+			"first": "হুসেন শাহ",
+			"second": "বখতিয়ার খলজি",
+			"third": "ইলিয়াস শাহ",
+			"fourth": "সুলতান মাহমুদ"
+		}, {
+			"mcq_no": "৬১",
+			"grp_ques": "বরিশাল এর প্রাচীন নাম কি?",
+			"first": "ইসলামপুর",
+			"second": "চন্দ্রদীপ",
+			"third": "বরদ্বীপ",
+			"fourth": "ফতেহবাদ"
+		}, {
+			"mcq_no": "৬২",
+			"grp_ques": "বাংলাদেশের সবচেয়ে গুরুত্বপূর্ণ খনিজ সম্পদ কোনটি?",
+			"first": "কয়লা",
+			"second": "চুনাপাথর",
+			"third": "সাদামাটি",
+			"fourth": "গ্যাস"
+		}, {
+			"mcq_no": "৬৩",
+			"grp_ques": "হাজংদের অধিবাস কোথায় ?",
+			"first": "ময়মনসিংহ ও নেত্রকোনা",
+			"second": "কক্সবাজার ও রামু",
+			"third": "রংপুর ও দিনাজপুর",
+			"fourth": "সিলেট ও মণিপুর"
+		}, {
+			"mcq_no": "৬৪",
+			"grp_ques": "বঙ্গভঙ্গ কত সালে হয়েছে?",
+			"first": "১৯০৫",
+			"second": "১৯৪৭",
+			"third": "১৯৫৭",
+			"fourth": "১৭৫৭"
+		}, {
+			"mcq_no": "৬৫",
+			"grp_ques": "বাংলাদেশের লোকশিল্প যাদুঘর কোথায় অবস্থিত?",
+			"first": "সোনারগাঁয়ে",
+			"second": "মহাস্থানগর",
+			"third": "রংপুর",
+			"fourth": "সিলেট"
+		}, {
+			"mcq_no": "৬৬",
+			"grp_ques": "UNESCO , সুন্দরবন কে কত তম world heritage site হিসেবে ঘোষণা করে?",
+			"first": "৫২০",
+			"second": "৫২২",
+			"third": "৫৩৩",
+			"fourth": "৫৩০"
+		}, {
+			"mcq_no": "৬৭",
+			"grp_ques": "বাংলাদেশ বিমানের প্রতীক কোনটি?",
+			"first": "বলাকা",
+			"second": "দোয়েল",
+			"third": "শাপলা",
+			"fourth": "কোনটি নয়"
+		}, {
+			"mcq_no": "৬৮",
+			"grp_ques": "প্রথম সাফ গেমস কোথায় অনুষ্ঠিত হয়?",
+			"first": "ঢাকা",
+			"second": "নয়াদিল্লী",
+			"third": "কলম্বো",
+			"fourth": "কাঠমুন্ডু"
+		}, {
+			"mcq_no": "৬৯",
+			"grp_ques": "দক্ষিণ তালপট্টি কোন নদীর মোহনায় অবস্থিত?",
+			"first": "নাফ",
+			"second": "তেতুলিয়া",
+			"third": "আড়িয়াল খাঁ",
+			"fourth": "হাড়িয়াভাঙ্গা"
+		}, {
+			"mcq_no": "৭০",
+			"grp_ques": "কর্ণফুলি নদীর উৎপত্তিস্থল-",
+			"first": "লামার মইভার পর্বত",
+			"second": "আসামের লুসাই পাহাড়ের লংলেহ",
+			"third": "সিকিমের পার্বত্য অঞ্চল",
+			"fourth": "তিব্বতের মানস সরোবর"
+		}, {
+			"mcq_no": "৭১",
+			"grp_ques": "পাকিস্তান শাসনতান্ত্রিক পরিষদের ধারা বিবরণীতে বাংলা ভাষা ব্যবহারের দাবি কে প্রথম করেছিলেন?",
+			"first": "আবুল হাশেম",
+			"second": "শেখ মুজিবুর রহমান",
+			"third": "ড. মুহম্মদ শহীদুল্লাহ",
+			"fourth": "ধীরেন্দ্রনাথ দত্ত"
+		}, {
+			"mcq_no": "৭২",
+			"grp_ques": "নদী ভাঙ্গনে সবচেয়ে বেশি ক্ষতিগ্রস্থ জেলা –",
+			"first": "নোয়াখালী ও ফেনী",
+			"second": "সিরাজগঞ্জ ও চাঁদপুর",
+			"third": "বরিশাল ও ফরিদপুর",
+			"fourth": "বরিশাল ও নোয়াখালী"
+		}, {
+			"mcq_no": "৭৩",
+			"grp_ques": "হলুদ বিহার কোথায় অবস্থিত?",
+			"first": "রাজশাহী",
+			"second": "নওগাঁ",
+			"third": "দিনাজপুর",
+			"fourth": "রংপুর"
+		}, {
+			"mcq_no": "৭৪",
+			"grp_ques": "বাংলাদেশের বৃহত্তম তাপ বিদ্যুৎকেন্দ্র অবস্থিত-",
+			"first": "গোয়ালপাড়া",
+			"second": "ভেড়ামারা",
+			"third": "আশুগঞ্জ",
+			"fourth": "সিদ্ধিরগঞ্জ"
+		}, {
+			"mcq_no": "৭৫",
+			"grp_ques": "টেস্ট ইতিহাসে বাংলাদেশের পক্ষে হ্যাট্রিক করা বোলার এর নাম কি??",
+			"first": "মোশাররফ রুবেল",
+			"second": "সানোয়ার হোসেন",
+			"third": "অলক কাপালি",
+			"fourth": "আতাহার আলী খান"
+		}, {
+			"mcq_no": "৭৬",
+			"grp_ques": "ডিএই (DAE) বাংলাদেশ সরকারের কী বিষয়ক সংস্থা ?",
+			"first": "ঔষধ",
+			"second": "কৃষি",
+			"third": "শিক্ষা",
+			"fourth": "নাট্যকলা"
+		}, {
+			"mcq_no": "৭৭",
+			"grp_ques": "বাংলাদেশের কয়টি নগর উন্নয়ন কর্তৃপক্ষ আছে?",
+			"first": "৪",
+			"second": "৫",
+			"third": "৬",
+			"fourth": "৭"
+		}, {
+			"mcq_no": "৭৮",
+			"grp_ques": "বাংলাদেশের বৃহত্তম বিল কোনটি ?",
+			"first": "চলন বিল",
+			"second": "তামা বিল",
+			"third": "ডাকাতিয়া বিল",
+			"fourth": "কোনটি নয়"
+		}, {
+			"mcq_no": "৭৯",
+			"grp_ques": "উপমহাদেশের প্রথম শিক্ষা কমিশনের নাম কি?",
+			"first": "মজিদ খান শিক্ষা কমিশন",
+			"second": "কুদরত-ই-খুদা শিক্ষা কমিশন",
+			"third": "হান্টার শিক্ষা কমিশন",
+			"fourth": "মফিজ শিক্ষা কমিশন"
+		}, {
+			"mcq_no": "৮০",
+			"grp_ques": "বঙ্গবন্ধু শেখ মুজিবুর  রহমান রচিত গ্রন্থ কোনটি ?",
+			"first": "অসমাপ্ত আত্মজীবনী",
+			"second": "বাংলাদেশ কথা কয়",
+			"third": "সত্য মামলা আগরতলা",
+			"fourth": "অবরুদ্ধ নয় মাস"
+		}, {
+			"mcq_no": "৮১",
+			"grp_ques": "কিরগিস্তানের রাজধানী কোথায় ?",
+			"first": "বিশকেক",
+			"second": "সালমা আতা",
+			"third": "আশাখাবাদ",
+			"fourth": "উলানবাটোর"
+		}, {
+			"mcq_no": "৮২",
+			"grp_ques": "CIRDAP এর সদর দপ্তর কোথায়?",
+			"first": "রোম",
+			"second": "কায়রো",
+			"third": "ঢাকা",
+			"fourth": "রিয়াদ"
+		}, {
+			"mcq_no": "৮৩",
+			"grp_ques": "কোন দেশে প্রথম আণবিক বোমা ফেলা হয়?",
+			"first": "ইতালি",
+			"second": "জার্মানি",
+			"third": "জাপান",
+			"fourth": "চীন"
+		}, {
+			"mcq_no": "৮৪",
+			"grp_ques": "MSS কোন দেশের গোয়েন্দা সংস্থা?",
+			"first": "যুক্তরাষ্ট্র",
+			"second": "ইসরাইল",
+			"third": "যুক্তরাজ্য",
+			"fourth": "চীন"
+		}, {
+			"mcq_no": "৮৫",
+			"grp_ques": "পৃথিবীর গভীরতম হ্রদ –",
+			"first": "কাসপিয়ান",
+			"second": "বৈকাল",
+			"third": "মানস সরোবর",
+			"fourth": "ডেড সী"
+		}, {
+			"mcq_no": "৮৬",
+			"grp_ques": "স্বাধীনতার পর থেকে এ পর্যন্ত বাংলাদেশ কে সর্বাধিক উন্নয়ন সাহায্য প্রদান করেছে কোন সংস্থা?",
+			"first": "WB",
+			"second": "IDA",
+			"third": "IMF",
+			"fourth": "JICA"
+		}, {
+			"mcq_no": "৮৭",
+			"grp_ques": "মার্কিন যুক্তরাষ্ট্রের বর্তমান পররাষ্ট্রমন্ত্রীর নাম কী?",
+			"first": "কন্ডোলিসা রাইস",
+			"second": "রবার্ট গেইট",
+			"third": "হিলারি ক্লিনটন",
+			"fourth": "জন কেরি"
+		}, {
+			"mcq_no": "৮৮",
+			"grp_ques": "আমেরিকার চালকবিহীন গোয়েন্দা বিমান ‘স্টিলথ ড্রোন’ টি কি ?",
+			"first": "বোমারু বিমান চালিত",
+			"second": "মিগ চালিত",
+			"third": "হেলিকপ্টার চালিত",
+			"fourth": "শক্তিশালী রকেট চালিত"
+		}, {
+			"mcq_no": "৮৯",
+			"grp_ques": "\"পার্ল স্কোয়ার\" কোথায় অবস্থিত?",
+			"first": "মানামা",
+			"second": "পানামা",
+			"third": "চীন",
+			"fourth": "লস এঞ্জেলস"
+		}, {
+			"mcq_no": "৯০",
+			"grp_ques": "কোন বিজ্ঞানী রোগজীবাণু তত্ত্ব উদ্ভাবন করেন?",
+			"first": "লুইপাস্তুর",
+			"second": "ডারউইন",
+			"third": "প্রিস্টলী",
+			"fourth": "ল্যাভয়েসিয়ে"
+		}, {
+			"mcq_no": "৯১",
+			"grp_ques": "সার্ক কোন বছর প্রতিষ্ঠিত হয়?",
+			"first": "১৯৭৫",
+			"second": "১৯৮৫",
+			"third": "১৯৮৭",
+			"fourth": "১৯৯০"
+		}, {
+			"mcq_no": "৯২",
+			"grp_ques": "বাংলাদেশ কোন সালে কমনওয়েলথ-এর সদস্যপদ লাভ করে?",
+			"first": "১৯৭২",
+			"second": "১৯৭৩",
+			"third": "১৯৭৪",
+			"fourth": "১৯৭৫"
+		}, {
+			"mcq_no": "৯৩",
+			"grp_ques": "\"গ্লাসনস্তনীতি\" কোন দেশে চালু হয়েছিল?",
+			"first": "চীন",
+			"second": "সাবেক সোভিয়েত ইউনিয়ন",
+			"third": "হাঙ্গেরী",
+			"fourth": "পোল্যান্ড"
+		}, {
+			"mcq_no": "৯৪",
+			"grp_ques": "জাতিসংঘের কোন মহাসচিব বিমান দুর্ঘটনায় নিহত হয়েছিল?",
+			"first": "ট্রিগেভলাই",
+			"second": "কুর্ট ওয়াল্ডহেইম",
+			"third": "দ্যাগ হ্যামারশোল্ড",
+			"fourth": "উথান্ট"
+		}, {
+			"mcq_no": "৯৫",
+			"grp_ques": "১৯৯১সনের উইম্বলডন টেনিস প্রতিযোগিতায় কে শিরোপা জয় করে?",
+			"first": "মাইকেল চ্যং",
+			"second": "জিন ফিলিপস",
+			"third": "মাইকেল স্টিচ",
+			"fourth": "জিমি কেনোর্স"
+		}, {
+			"mcq_no": "৯৬",
+			"grp_ques": "জোট নিরোপেক্ষ আন্দোলনের প্রথম শীর্ষ সম্মেলন কবে অনুষ্ঠিত হয় ?",
+			"first": "হারারে, ১৯৮৯ সাল",
+			"second": "বেলগ্রেড, ১৯৬১ সাল",
+			"third": "হাভানা, ১৯৭৩ সাল",
+			"fourth": "কায়রো, ১৯৭০ সাল"
+		}, {
+			"mcq_no": "৯৭",
+			"grp_ques": "বেলফোর ঘোষণা ১৯১৭ এর মূল প্রতিপাদ্য বিষয় কি?",
+			"first": "জাতিপুঞ্জ সৃষ্টি করা",
+			"second": "অটো মানদের জায়গা দখল",
+			"third": "ইহুদিদের জন্য জাতি গঠন",
+			"fourth": "জার্মানির বিরুদ্ধে মিত্র শক্তির নতুন কৌশল অবলম্বন"
+		}, {
+			"mcq_no": "৯৮",
+			"grp_ques": "‘A Long Walk to Freedom’ বইটির লেখক কে?",
+			"first": "হোসে সামও",
+			"second": "রবার্ট মুরাবে",
+			"third": "নেলসন ম্যান্ডেলা",
+			"fourth": "অংসান সুচি"
+		}, {
+			"mcq_no": "৯৯",
+			"grp_ques": "আটলান্টিক সনদে যুক্তরাষ্ট্র এবং ব্রিটিশের পক্ষে স্বাক্ষর করেন কে কে?",
+			"first": "রোনাল্ড রিগ্যান ও মার্গারেট থ্যাচার",
+			"second": "জর্জ ডবি্লউ বুশ ও টনি ব্লেয়ার",
+			"third": "জিমি কার্টার ও রানী দ্বিতীয় এলিজাবেথ",
+			"fourth": "ফ্রাঙ্কলিন ডি রুজভেল্ট ও উইনস্টোন চার্চিল"
+		}, {
+			"mcq_no": "১০০",
+			"grp_ques": "মিয়ানমারের বিরোধীদলীয় নেত্রী অং সান সু ‍চি- এর দলের নাম কি?",
+			"first": "ডেমোক্রেসি ফর ন্যাশনাল লীগ",
+			"second": "ন্যাশনাল লীগ ফর ডেমোক্রেসি",
+			"third": "ন্যাশনাল লীগ অব মায়ানমার",
+			"fourth": "ন্যাশনাল লীগ ফর লেবার পার্টি"
+		}, {
+			"mcq_no": "101",
+			"grp_ques": "City B is 5 miles east of city A. City C is 10 miles southeast of city B. Which of the following is the closest to the distance from city A to city C?",
+			"first": "11 miles",
+			"second": "12 miles",
+			"third": "13 miles",
+			"fourth": "14 miles"
+		},
+
+		{
+			"mcq_no": "102",
+			"grp_ques": "কোন লঘিষ্ঠ সংখ্যাকে ১২ এবং ১৬ দ্বারা ভাগ করলে অবশিষ্ট হবে যথাক্রমে ৫ এবং ৯ কত?",
+			"first": "৪৮",
+			"second": "৪১",
+			"third": "৫৩",
+			"fourth": "৩৯"
+		},
+		{
+			"mcq_no": "103",
+			"grp_ques": "পিতা ও পুত্রের বর্তমান বয়সের সমষ্টি ৬৩ বছর এবং তাদের বয়সের অনুপাত ৭:২।৯ বছর পূর্বে তাদের বয়সের অনুপাত কত ছিল?",
+			"first": "৬:১",
+			"second": "৭:১",
+			"third": "৮:১",
+			"fourth": "৯:১"
+		},
+		{
+			"mcq_no": "104",
+			"grp_ques": "১ হতে ১০০ পর্যন্ত সংখ্যা সমূহের যোগফল কত?",
+			"first": "৪৯৯৯",
+			"second": "৫৫০১",
+			"third": "৫০৫০",
+			"fourth": "৫০০১"
+		},
+
+		{
+			"mcq_no": "105",
+			"grp_ques": "৬০ থেকে ৮০ এর মধ্যবর্তী বৃহত্তর ও ক্ষুদ্রতম মৌলিক সংখ্যার অন্তর কত?",
+			"first": "১৮",
+			"second": "১৭",
+			"third": "১৬",
+			"fourth": "১৫"
+		},
+		{
+			"mcq_no": "106",
+			"grp_ques": "x ও y মানের গড় 9 এবং z=12 হলে, x, y এবং z এর মানের গড় কত?",
+			"first": "10",
+			"second": "12",
+			"third": "6",
+			"fourth": "9"
+		},
+		{
+			"mcq_no": "107",
+			"grp_ques": "Two men, starting at the same point, walk in opposite directions for 4 meters, turn left and walk another 3 meters. What is the distance between them?",
+			"first": "7 meters",
+			"second": "14 meters",
+			"third": "10 meters",
+			"fourth": "6 meters"
+		},
+		{
+			"mcq_no": "108",
+			"grp_ques": "x+y=8, x-y=6 হলে, x^2+y^2 এর মান-",
+			"first": "40",
+			"second": "50",
+			"third": "60",
+			"fourth": "80"
+		},
+
+		{
+			"mcq_no": "109",
+			"grp_ques": "A number is increased 50% and the resulting number is decreased 50%. The final number is what percentage of the original number?",
+			"first": "50%",
+			"second": "80%",
+			"third": "100%",
+			"fourth": "75%"
+		},
+		{
+			"mcq_no": "110",
+			"grp_ques": "১ মিটার কত ইঞ্চির সমান",
+			"first": "৩৯.৪৭ইঞ্চি",
+			"second": "৩৭.৩৯ ইঞ্চি",
+			"third": "৩৯.৩৭ ইঞ্চি",
+			"fourth": "৩৭.৪৯ ইঞ্চি"
+		},
+		{
+			"mcq_no": "111",
+			"grp_ques": "(4x^2-16) এবং 6x^2+24x+24 এর গসাগু-",
+			"first": "x+2",
+			"second": "x+4",
+			"third": "x-2",
+			"fourth": "2(x+2)"
+		},
+
+		{
+			"mcq_no": "112",
+			"grp_ques": "একটি প্রকৃত ভগ্নাংশের হর ও লবের অন্তর ২, হর ও লব উভয় থেকে ৩ বিয়োগ করলে যে ভগ্নাংশ পাওয়া যায় তার সংগে",
+			"first": "৭/৯",
+			"second": "৯/১১",
+			"third": "১১/১৩",
+			"fourth": "১৩/১৫"
+		},
+		{
+			"mcq_no": "113",
+			"grp_ques": "x^2-8x-8y+16+y^2 এর সাথে কত যোগ করলে যোগফল পূর্ণ বর্গ হবে ?",
+			"first": "4xy",
+			"second": "2xy",
+			"third": "6xy",
+			"fourth": "8xy"
+		},
+		{
+			"mcq_no": "114",
+			"grp_ques": "রোমান M প্রতিকের অর্থ কি?",
+			"first": "50",
+			"second": "100",
+			"third": "1000",
+			"fourth": "500"
+		},
+
+		{
+			"mcq_no": "115",
+			"grp_ques": "একটি সোনার গহনার ওজন ১৬ গ্রাম। এতে সোনা ও তামার অনুপাত ৩ ∶ ১, এতে কী পরিমাণ সোনা মেশালে অনুপাত ৪ ∶ ১ হবে?",
+			"first": "১২ গ্রাম",
+			"second": "৬ গ্রাম",
+			"third": "৩ গ্রাম",
+			"fourth": "৪ গ্রাম"
+		},
+
+		{
+			"mcq_no": "116",
+			"grp_ques": "This river teems ...... fish ?",
+			"first": "to",
+			"second": "with",
+			"third": "in",
+			"fourth": "for"
+		},
+
+		{
+			"mcq_no": "117",
+			"grp_ques": "The player isn't fat; ------, he's quite skinny.",
+			"first": "in any case",
+			"second": "by rights",
+			"third": "in practice",
+			"fourth": "on the contrary"
+		},
+
+		{
+			"mcq_no": "118",
+			"grp_ques": "Price for bicycles can run ___________ T.k 2,000.00",
+			"first": "as high as",
+			"second": "so high as",
+			"third": "as high to",
+			"fourth": "as high for"
+		},
+
+		{
+			"mcq_no": "119",
+			"grp_ques": "To pick holes - means",
+			"first": "To criticize someone",
+			"second": "To destroy something",
+			"third": "None of these",
+			"fourth": "To find some reason to quarrel"
+		}, {
+			"mcq_no": "১২০",
+			"grp_ques": "Myopic - means ?",
+			"first": "Near sighted",
+			"second": "Long sighted",
+			"third": "Blind",
+			"fourth": "Color blind"
+		}, {
+			"mcq_no": "১২১",
+			"grp_ques": "Which one is the correct expression?",
+			"first": "Congratulation",
+			"second": "Congratulations",
+			"third": "A + B",
+			"fourth": "None of these"
+		}, {
+			"mcq_no": "১২২",
+			"grp_ques": "FUND:EMBEZZLED",
+			"first": "Loot:burried",
+			"second": "Writing:plagiarized",
+			"third": "ransom:prey",
+			"fourth": "money:deposited"
+		}, {
+			"mcq_no": "১২৩",
+			"grp_ques": "Antonym of MULTIFARIOUS",
+			"first": "deprived of freedom",
+			"second": "deprived of comfort",
+			"third": "lacking space",
+			"fourth": "lacking diversity"
+		}, {
+			"mcq_no": "১২৪",
+			"grp_ques": "Choose the correct sentence:",
+			"first": "It is you who is to pay.",
+			"second": "It is you who are to leave.",
+			"third": "It is you who is late.",
+			"fourth": "It is you who has won the prize."
+		}, {
+			"mcq_no": "১২৫",
+			"grp_ques": "You should ask the ------ about the train timing",
+			"first": "Station Master",
+			"second": "Information Desk",
+			"third": "Ticket Checker",
+			"fourth": "Railway Police"
+		}, {
+			"mcq_no": "১২৬",
+			"grp_ques": "----- song haunted me for a long time.",
+			"first": "These",
+			"second": "Thus",
+			"third": "That",
+			"fourth": "Those"
+		}, {
+			"mcq_no": "১২৭",
+			"grp_ques": "'Good' is to 'bad' as 'white' is to__",
+			"first": "dark",
+			"second": "grey",
+			"third": "black",
+			"fourth": "ebony"
+		}, {
+			"mcq_no": "১২৮",
+			"grp_ques": "\"If winter comes, can spring be far behind?\" These lines were written by _.",
+			"first": "Keats",
+			"second": "Forst",
+			"third": "Eliot",
+			"fourth": "Shelley"
+		}, {
+			"mcq_no": "১২৯",
+			"grp_ques": "Chronic - synonym ?",
+			"first": "Recently",
+			"second": "After death",
+			"third": "Lasting a long time",
+			"fourth": "Occasionally"
+		}, {
+			"mcq_no": "১৩০",
+			"grp_ques": "Synonym of - ABUNDANT",
+			"first": "Plenty",
+			"second": "Ripe",
+			"third": "Absent",
+			"fourth": "Cheap"
+		}, {
+			"mcq_no": "১৩১",
+			"grp_ques": "He went after we had left. Here after is –",
+			"first": "verb",
+			"second": "adverb",
+			"third": "adjective",
+			"fourth": "conjunction"
+		}, {
+			"mcq_no": "১৩২",
+			"grp_ques": "Synonym of - WRETCHED",
+			"first": "Poor",
+			"second": "Foolish",
+			"third": "Insane",
+			"fourth": "Strained"
+		}, {
+			"mcq_no": "১৩৩",
+			"grp_ques": "He resisted—his doing this.",
+			"first": "on",
+			"second": "to",
+			"third": "of",
+			"fourth": "from"
+		}, {
+			"mcq_no": "১৩৪",
+			"grp_ques": "It was so dark that the security guard could not see ------.",
+			"first": "nobody",
+			"second": "somebody",
+			"third": "anyone",
+			"fourth": "none"
+		}, {
+			"mcq_no": "১৩৫",
+			"grp_ques": "What is the full form of SMS?",
+			"first": "Short Message Service",
+			"second": "Short Message Story",
+			"third": "Small Message Sending",
+			"fourth": "Short Message Syndication"
+		}, {
+			"mcq_no": "১৩৬",
+			"grp_ques": "The fact that the gorilla is becoming extinct _______wildlife preservationists.",
+			"first": "disturbing",
+			"second": "disturbing to",
+			"third": "disturbs",
+			"fourth": "disturbance of"
+		}, {
+			"mcq_no": "১৩৭",
+			"grp_ques": "I took a map with me, as I didn’t want to________ my way on the journey.",
+			"first": "loose",
+			"second": "lose",
+			"third": "lost",
+			"fourth": "loss"
+		}, {
+			"mcq_no": "১৩৮",
+			"grp_ques": "Choose the word which never has a plural--",
+			"first": "Mouse",
+			"second": "Intention",
+			"third": "Woman",
+			"fourth": "Information"
+		}, {
+			"mcq_no": "১৩৯",
+			"grp_ques": "Did you hear the story about the woman who said she could tell the _______?",
+			"first": "coming",
+			"second": "future",
+			"third": "going",
+			"fourth": "next"
+		}, {
+			"mcq_no": "১৪০",
+			"grp_ques": "Select similar to: Handy",
+			"first": "comfortable",
+			"second": "useful",
+			"third": "convenient to handle or use",
+			"fourth": "necessary"
+		}, {
+			"mcq_no": "141",
+			"grp_ques": "Antonym of DIFFUSE",
+			"first": "contend",
+			"second": "concentrate",
+			"third": "imply",
+			"fourth": "pretend"
+		}, {
+			"mcq_no": "142",
+			"grp_ques": "Select a word having the opposite of - 'DISREGARD'",
+			"first": "significant",
+			"second": "evade",
+			"third": "heed",
+			"fourth": "adequate"
+		}, {
+			"mcq_no": "143",
+			"grp_ques": "A fantasy is-",
+			"first": "An imaginary story",
+			"second": "A funny film",
+			"third": "A history",
+			"fourth": "A real-life event"
+		}, {
+			"mcq_no": "144",
+			"grp_ques": "Select the right word for 'A speech made without previous preparation':",
+			"first": "composed",
+			"second": "extempore",
+			"third": "memorized",
+			"fourth": "censored"
+		}, {
+			"mcq_no": "145",
+			"grp_ques": "The man was --- for murder.",
+			"first": "hanging",
+			"second": "hung",
+			"third": "hanged",
+			"fourth": "hang"
+		}, {
+			"mcq_no": "146",
+			"grp_ques": "He was accused ______killing a young man.",
+			"first": "to",
+			"second": "in",
+			"third": "for",
+			"fourth": "of"
+		}, {
+			"mcq_no": "147",
+			"grp_ques": "Synonym of - TRANSIENT",
+			"first": "Transparent",
+			"second": "Feeble",
+			"third": "Fanciful",
+			"fourth": "Fleeting"
+		}, {
+			"mcq_no": "148",
+			"grp_ques": "Gazelle : Swift ::",
+			"first": "horse : slow",
+			"second": "wolf : sly",
+			"third": "swan : graceful",
+			"fourth": "elephant : gray"
+		}, {
+			"mcq_no": "149",
+			"grp_ques": "Benevolent - synonym",
+			"first": "Compassionate",
+			"second": "Compromise",
+			"third": "Honorarium",
+			"fourth": "Disgraceful"
+		}, {
+			"mcq_no": "150",
+			"grp_ques": "I listened, but I had no idea what he was ...... about.",
+			"first": "saying",
+			"second": "telling",
+			"third": "talking",
+			"fourth": "discussing"
+		}, {
+			"mcq_no": "151",
+			"grp_ques": "নিন্মের কোনটি মধ্যপ্রাচ্যের দেশ নয়?",
+			"first": "তুরষ্ক",
+			"second": "লেবানন",
+			"third": "সাইপ্রাস",
+			"fourth": "মালয়েশিয়া"
+		}, {
+			"mcq_no": "152",
+			"grp_ques": "উত্তর আফ্রিকার দেশগুলোর ভৌগোলিক সীমারেখার বৈশিষ্ট্য কী?",
+			"first": "ঔপনিবেশিক সীমারেখা",
+			"second": "উপজাতিভিত্তিক সীমারেখা",
+			"third": "অচিহ্নিত সীমারেখা",
+			"fourth": "জ্যামিতিক সীমারেখা"
+		}, {
+			"mcq_no": "153",
+			"grp_ques": "‘Greenland’ belongs to which country?",
+			"first": "Denmark",
+			"second": "Canada",
+			"third": "USA",
+			"fourth": "None of these"
+		}, {
+			"mcq_no": "154",
+			"grp_ques": "পৃথিবীর বৃহত্তম দ্বীপ কোনটি?",
+			"first": "বাংলাদেশ",
+			"second": "গ্রীণল্যান্ড",
+			"third": "মালদ্বীপ",
+			"fourth": "কোনটি নয়"
+		}, {
+			"mcq_no": "155",
+			"grp_ques": "গ্রানাইডের শহর বলা হয়—",
+			"first": "এথেন্স",
+			"second": "নিউইয়র্ক",
+			"third": "এভারডিন",
+			"fourth": "জোহানসবার্গ"
+		}, {
+			"mcq_no": "156",
+			"grp_ques": "আটলান্টিক মহাসাগরের পশ্চিম তীরে কোনটি অবস্থিত?",
+			"first": "এশিয়া",
+			"second": "ইউরোপ",
+			"third": "আমেরিকা",
+			"fourth": "আফ্রিকা"
+		}, {
+			"mcq_no": "157",
+			"grp_ques": "হিমালয়, আল্পস, ইউরোপ কোন ধর্নের পর্বত?",
+			"first": "ভঙ্গিল পর্বত",
+			"second": "ক্ষয়জাত পর্বত",
+			"third": "স্তূপ পর্বত",
+			"fourth": "আগ্নেয় পর্বত"
+		}, {
+			"mcq_no": "158",
+			"grp_ques": "সুনামি শব্দের অর্থ হলো –",
+			"first": "বন্দরের ঢেউ",
+			"second": "জলোচ্ছাস",
+			"third": "ঘুর্ণিপাক",
+			"fourth": "প্রবল হাওয়া"
+		}, {
+			"mcq_no": "159",
+			"grp_ques": "ঢাকার প্রতিপাদ স্থান-",
+			"first": "চিলির নিকট প্রশান্ত মহাসাগরে",
+			"second": "চীনের নিকট প্রশান্ত মহাসাগরে",
+			"third": "পেরুর নিকট প্রশান্ত মহাসাগরে",
+			"fourth": "কোনটি নয়"
+		}, {
+			"mcq_no": "160",
+			"grp_ques": "নিচের কোন দেশটি স্ক্যান্ডিনেভিয়ান দেশভুক্ত নয়?",
+			"first": "সুইজারল্যান্ড",
+			"second": "নরওয়ে",
+			"third": "আইসল্যান্ড",
+			"fourth": "ফিনল্যান্ড"
+		}, {
+			"mcq_no": "161",
+			"grp_ques": "একজন ভাল কম্পিউটার প্রোগ্রামারের প্রাথমিক গুনাবলি কি ?",
+			"first": "Logical Mind",
+			"second": "Logical Program",
+			"third": "Logical Instructions",
+			"fourth": "Logical Thoughts"
+		}, {
+			"mcq_no": "162",
+			"grp_ques": "All CDMA based technologies, 2G and 3G (third-generation), have _______ handovers.",
+			"first": "hard",
+			"second": "soft",
+			"third": "softer",
+			"fourth": "None of the above"
+		}, {
+			"mcq_no": "163",
+			"grp_ques": "সামাজিক যোগাযোগের মাধ্যম ‘ফেসবুক’ এর প্রতিষ্ঠাতা হচ্ছেন-",
+			"first": "মার্ক জাকারবার্গ",
+			"second": "এন্ডি গ্রোড",
+			"third": "টিম বার্নার্স লি",
+			"fourth": "বিল গেটস"
+		}, {
+			"mcq_no": "164",
+			"grp_ques": "প্রকাশনার উদ্দেশ্যে কম্পিউটারে লেখালেখির কাজকে কী বলে?",
+			"first": "প্রেস পাবলিশিং",
+			"second": "মেকিন্টোশ পাবলিশিং",
+			"third": "ওয়াক পাবলিশিং",
+			"fourth": "ডেস্কটপ পাবলিশিং"
+		}, {
+			"mcq_no": "165",
+			"grp_ques": "আমাদের দেশে প্রথম কত সালে কম্পিউটার আসে?",
+			"first": "১৯৬৪ সালে",
+			"second": "১৯৭১ সালে",
+			"third": "১৯৮৭ সালে",
+			"fourth": "১৯৭২ সালে"
+		}, {
+			"mcq_no": "166",
+			"grp_ques": "Which one of the following devices is required to connect a computer to the internet?",
+			"first": "Pen Drive",
+			"second": "Mouse",
+			"third": "Modem",
+			"fourth": "None of these"
+		}, {
+			"mcq_no": "167",
+			"grp_ques": "Twitter এর উদ্ভাবক কে?",
+			"first": "মার্ক জুকার বার্গ",
+			"second": "উলিয়াম অ্যাসেঞ্জ",
+			"third": "বিল গেটস",
+			"fourth": "জ্যাক ডরসি"
+		}, {
+			"mcq_no": "168",
+			"grp_ques": "গুগল কী?",
+			"first": "ওয়েব সাইট",
+			"second": "হার্ডওয়্যার প্রতিষ্ঠান",
+			"third": "সার্চ ইঞ্জিন",
+			"fourth": "সফটওয়্যার প্রতিষ্ঠান"
+		}, {
+			"mcq_no": "169",
+			"grp_ques": "OMR means",
+			"first": "Optical Mark Recognition",
+			"second": "Original Mark Recognition",
+			"third": "Only Mark Reading",
+			"fourth": "Optical Media Reading"
+		}, {
+			"mcq_no": "170",
+			"grp_ques": "কিসের মাধ্যমে স্বল্পমূল্যে বা বিনামূল্যে পণ্যের বিজ্ঞাপন দেওয়া যায়—",
+			"first": "রেডিওতে",
+			"second": "টেলিভিশনে",
+			"third": "মোবাইলে",
+			"fourth": "ওয়েবসাইটের মাধ্যমে"
+		}, {
+			"mcq_no": "171",
+			"grp_ques": "ইন্টারনেট ব্যবহারে শীষ দেশ কোনটা ?",
+			"first": "চীন",
+			"second": "জাপান",
+			"third": "ভারত",
+			"fourth": "রাশিয়া"
+		}, {
+			"mcq_no": "172",
+			"grp_ques": "উইন্ডোজ কত সালে প্রথম প্রকাশিত হয় ?",
+			"first": "১৯৭৫ সালে",
+			"second": "১৯৮০ সালে",
+			"third": "১৯৮৫ সালে",
+			"fourth": "১৯৯০ সালে"
+		}, {
+			"mcq_no": "173",
+			"grp_ques": "১ ন্যানো সেকেন্ড = কত সেকেন্ড ?",
+			"first": "১/১ হাজার সে",
+			"second": "১/১০ কোটি সে",
+			"third": "১/১০০ কোটি সে",
+			"fourth": "১/১০ লক্ষ সে"
+		}, {
+			"mcq_no": "174",
+			"grp_ques": "Personal Computer- এর কারিগরি নাম কী?",
+			"first": "পিসি",
+			"second": "মাইক্রো কম্পিউটার",
+			"third": "আইবিএম",
+			"fourth": "মাই কম্পিউটার"
+		}, {
+			"mcq_no": "175",
+			"grp_ques": "Who co-created the UNIX operating system in 1969 with Dennis Ritchie?",
+			"first": "Bjarne Stroustrup",
+			"second": "Steve Wozniak",
+			"third": "Ken Thompson",
+			"fourth": "Niklaus Wirth"
+		}, {
+			"mcq_no": "176",
+			"grp_ques": "পাঁচজন ব্যক্তি গোল হয়ে বসে কেন্দ্রের দিকে তাকিয়ে তাস খেলছে। মুকুন্দ রাজেশের বামদিকে। বিজয় হল অনল ও নাগেশের মাঝখানে এবং অনিলের ডানদিকে। কে তাহলে নাগেশের ডানদিকে বসে আছে?",
+			"first": "বিজয়",
+			"second": "রাজেশ",
+			"third": "অনিল",
+			"fourth": "মুকন্দ"
+		}, {
+			"mcq_no": "177",
+			"grp_ques": "যদি রবিবার আজ থেকে ৫দিন পরে হয়, যেমন ৬ই জানুয়ারী তাহলে গত বছরের ডিসেম্বর কি বার ছিল?",
+			"first": "সোমবার",
+			"second": "মঙ্গলবার",
+			"third": "বৃহস্পতিবার",
+			"fourth": "শুক্রবার"
+		}, {
+			"mcq_no": "178",
+			"grp_ques": "২০ কি. মি. উত্তরে হাঁটার পর একজন খামখেয়ালী ব্যক্তি ডান দিকে ঘুরে ৩০ কি. মি. হাঁটলো। এরপর ডানদিকে ঘুরে ৩৫ কি. মি. হাঁটলো এরপর সে তার বাঁ দিকে ঘুরে ১৫ কি. মি. হাঁটলো। যাত্রা শুরুর স্থান থেকে সে কতদূরে ও কোনদিকে আছে?",
+			"first": "৪৫ কি. ম. পূর্বে",
+			"second": "৩০ কি.মি. পূর্বে",
+			"third": "১৫ কি.মি. পশ্চিমে",
+			"fourth": "৩০ কি.মি. পশ্চিমে"
+		}, {
+			"mcq_no": "179",
+			"grp_ques": "--------- ছাড়া সেলাই করা অসম্ভব",
+			"first": "সূচ",
+			"second": "মেশিন",
+			"third": "সুতা",
+			"fourth": "দর্জি"
+		}, {
+			"mcq_no": "180",
+			"grp_ques": "সায়েম মনিরকে বলল, তোমার চাচা আমার মায়ের ভাই। তাহলে সায়েম মনিরের কি হয়?",
+			"first": "চাচাতো ভাই",
+			"second": "খালাতো ভাই",
+			"third": "মামাতো ভাই",
+			"fourth": "ফুপাতো ভাই"
+		}, {
+			"mcq_no": "181",
+			"grp_ques": "Of the four words below, three are alike in a certain way. Which is the one not like these three?",
+			"first": "Bend",
+			"second": "Shave",
+			"third": "Chop",
+			"fourth": "Whittle"
+		}, {
+			"mcq_no": "182",
+			"grp_ques": "কোনটি আলাদা?",
+			"first": "শরীক",
+			"second": "শিরোণাম",
+			"third": "শষ্য",
+			"fourth": "শ্রমজীবী"
+		}, {
+			"mcq_no": "183",
+			"grp_ques": "Write the number of the pair which is dissimilar to others in the following:",
+			"first": "HOSPITAL and PATIENT",
+			"second": "PRISON and CULPRIT",
+			"third": "STUDENT and TEACHER",
+			"fourth": "BIRD and NEST"
+		}, {
+			"mcq_no": "184",
+			"grp_ques": "----------- ছাড়া ভালো ছাত্র হওয়া যায় না",
+			"first": "মেধা",
+			"second": "শ্রম",
+			"third": "অধ্যাবসায়",
+			"fourth": "সময়নিষ্ঠা"
+		}, {
+			"mcq_no": "185",
+			"grp_ques": "Underline the odd-man out.",
+			"first": "August",
+			"second": "October",
+			"third": "November",
+			"fourth": "December"
+		}, {
+			"mcq_no": "186",
+			"grp_ques": "Cup is to coffee as bowl is to",
+			"first": "food",
+			"second": "soup",
+			"third": "dish",
+			"fourth": "spoon"
+		}, {
+			"mcq_no": "187",
+			"grp_ques": "The day that will come after three days after TOMORROW will be SATURDAY. What was the day two days before YESTERDAY?",
+			"first": "SATURDAY",
+			"second": "FRIDAY",
+			"third": "SAUNDAY",
+			"fourth": "MONDAY"
+		}, {
+			"mcq_no": "188",
+			"grp_ques": "২০১০ সালের ১লা জানুয়ারী শুক্রবার ছিল। ৩১ ডিসেম্বর কি বার হবে?",
+			"first": "রবিবার",
+			"second": "বুধবার",
+			"third": "শুক্রবার",
+			"fourth": "সোমবার"
+		}, {
+			"mcq_no": "189",
+			"grp_ques": "কবির পূর্বদিকে মুখ করে ছিল। সে তার ডান দিকে ৪৫ ডিগ্রী কোণে ঘুরে দাড়ালো এবং ১৫ মিটার হাঁটলো। তারপর ১৮০ ডিগ্রী কোণে ঘুরে দাঁড়ালো এবং ৪০ মিটার হাঁটলো। যাত্রা শুরুর স্থান থেকে কবিরের বর্তমান অবস্থান কোন দিকে?",
+			"first": "উত্তর-পশ্চিম",
+			"second": "উত্তর-পূর্ব",
+			"third": "দক্ষিণ-পুর্ব",
+			"fourth": "দক্ষিণ-পশ্চিম"
+		}, {
+			"mcq_no": "190",
+			"grp_ques": "পানি ভর্তি একটি বালতির ওজন বার কেজি। বালতির অর্ধেক পানি ভর্তি হলে ওজন দাঁড়ায় ৭ কেজি। খালি বালতির ওজন কত?",
+			"first": "৫ কেজি",
+			"second": "৭ কেজি",
+			"third": "২ কেজি",
+			"fourth": "১ কেজি"
+		}, {
+			"mcq_no": "191",
+			"grp_ques": "মূল্যবোধগুলো সমাজে কী হিসেবে ভূমিকা পালন করে?",
+			"first": "সামাজিক সেতুবন্ধন",
+			"second": "সামাজিক বিভিন্নতা সৃষ্টি",
+			"third": "সামাজিক পরিবর্তনশীলতা",
+			"fourth": "সহমর্মিতা"
+		}, {
+			"mcq_no": "192",
+			"grp_ques": "জাতীয় উন্নয়নের মূলধন কোনটি?",
+			"first": "সততা",
+			"second": "নৈতিকতা",
+			"third": "সহযোগিতা",
+			"fourth": "সামাজিক মূল্য"
+		}, {
+			"mcq_no": "193",
+			"grp_ques": "বিশ্ব স্বাস্থ্য সংস্থা কোন মাসটি স্থাপন করা হয়?",
+			"first": "এপ্রিল",
+			"second": "মে",
+			"third": "জুন",
+			"fourth": "জুলাই"
+		}, {
+			"mcq_no": "194",
+			"grp_ques": "বাংলাদেশে প্রথম বিশ্ববিদ্যালয় কোথায় স্থাপন করা হয়?",
+			"first": "ঢাকা",
+			"second": "চট্টগ্রাম",
+			"third": "রাজশাহী",
+			"fourth": "খুলনা"
+		}, {
+			"mcq_no": "195",
+			"grp_ques": "রাজধানীর প্রাকৃতিক সৌন্দর্য কোন গণ্ডিবা দ্বীপে পাওয়া যায়?",
+			"first": "পাখির গোড়া",
+			"second": "শোলোর বীর্য",
+			"third": "চরমারা",
+			"fourth": "সুন্দরবন"
+		}, {
+			"mcq_no": "196",
+			"grp_ques": "বাংলাদেশের কোন সেতুতির মাধ্যমে দক্ষিণ এশিয়া থেকে দক্ষিণ প্রশান্ত মহাসাগর যৌথ হতে হয়?",
+			"first": "ভাটিয়া সেতু",
+			"second": "মেঘনা সেতু",
+			"third": "জামুনা সেতু",
+			"fourth": "কমলাপুর সেতু"
+		}, {
+			"mcq_no": "197",
+			"grp_ques": "বাংলাদেশে প্রথম বৈদ্যুতিন ট্রেন যায় কোথা থেকে কোথা যায়?",
+			"first": "ঢাকা থেকে তঙ্গাইল",
+			"second": "ঢাকা থেকে চট্টগ্রাম",
+			"third": "ঢাকা থেকে ময়মনসিংহ",
+			"fourth": "ঢাকা থেকে খুলনা"
+		}, {
+			"mcq_no": "198",
+			"grp_ques": "বাংলাদেশের প্রথম সাক্ষরবিদ কে?",
+			"first": "মির মোহাম্মদ আব্বাস",
+			"second": "আহম্মদ আব্বাস খান",
+			"third": "আব্দুল গণি",
+			"fourth": "হসন আলী"
+		}, {
+			"mcq_no": "199",
+			"grp_ques": "বাংলাদেশে প্রথম পত্রিকা কোথা প্রকাশিত হয়?",
+			"first": "দেব প্রিয় দত্তের দ্বৈমাসিক আনন্দমেলা",
+			"second": "সংগঠন",
+			"third": "মুক্তিযুদ্ধ",
+			"fourth": "পুরাতন দিনরাত্রিপত্রিকা"
+		}, {
+			"mcq_no": "200",
+			"grp_ques": "বাংলাদেশ সমুদ্রে কতটি বন্দর?",
+			"first": "৩৪",
+			"second": "৩৫",
+			"third": "৩৬",
+			"fourth": "৩৭"
+		}
+
+	]
+
+}
